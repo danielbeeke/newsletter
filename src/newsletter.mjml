@@ -12,7 +12,7 @@
     <mj-section background-color="#D22630"></mj-section>
     <mj-section padding=0>
       <mj-column padding=0>
-        <mj-image padding=0 src="/header-5.png"></mj-image>
+        <mj-image padding=0 src="../assets/newsletter-5/header-5.jpg"></mj-image>
       </mj-column>
     </mj-section>
     <mj-section background-color="white">
@@ -36,7 +36,7 @@
     
         <mj-section background-color="white" padding=0>
       <mj-column padding=0>
-        <mj-image alt="Hartelijke groet vanuit Oostenrijk Daniël & Wilma" padding=0 src="/footer.png"></mj-image>
+        <mj-image alt="Hartelijke groet vanuit Oostenrijk Daniël & Wilma" padding=0 src="../assets/general/footer.jpg"></mj-image>
       </mj-column>
     </mj-section>
         <mj-section background-color="white"></mj-section>
