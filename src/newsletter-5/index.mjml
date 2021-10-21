@@ -1,8 +1,18 @@
 <mjml>
   <mj-head>
     <mj-preview>Vriendelijke groeten vanuit Oostenrijk. We zijn erg dankbaar voor jullie betrokkenheid, gebeden, berichten en de financiele inbreng. We blijven nog een jaar in Oostenrijk.</mj-preview>
-    <mj-attributes>
-    </mj-attributes>
+
+    <mj-style>
+    	body {
+      	  margin: 0px;
+      	  padding: 0px;
+          background-color: #e8e8e8;
+        }
+        html {
+          background-color: #e8e8e8;
+        }
+    </mj-style>
+
     <mj-style inline="inline">
       .link-nostyle { color: inherit; text-decoration: none } 
     </mj-style>
@@ -16,12 +26,15 @@
     </mj-section>
     
     <mj-include path="./welkom.mjml" />
-    <mj-section background-color="#e8e8e8"></mj-section>
+    <mj-section background-color="#e8e8e8" padding="5px"></mj-section>
 
     <mj-include path="./financieen.mjml" />
 
+    <mj-section background-color="#e8e8e8" padding="5px"></mj-section>
 
     <mj-include path="./wilma.mjml" />
+
+    <mj-section background-color="#e8e8e8" padding="5px"></mj-section>
 
     <mj-include path="./daniel.mjml" />
     <mj-section background-color="#e8e8e8"></mj-section>

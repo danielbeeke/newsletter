@@ -1,9 +1,29 @@
 <mj-section padding="0" background-color="white">
   <mj-column padding="0">
     <mj-text>
-        <h2>Daniel's werk</h2>
-        <p>Vriendelijke groeten vanuit Oostenrijk. We zijn erg dankbaar voor jullie betrokkenheid, gebeden, berichten en de financiele inbreng. We zijn dankbaar dat we zo samen met jullie bij kunnen dragen aan het verspreiden van het Evangelie en Gods liefde bekent kunnen maken aan mensen die daar weinig toegang tot hebben.</p>
-        <p>Afgelopen periode hebben we nagedacht of we nog een jaar hier ons zullen inzetten en dat gaan we doen! Dat geeft ons de mogelijkheid om nog nieuwe projecten te starten en verder te gaan met reeds begonnen projecten. We hebben er zin in om ons verder hier in te zetten.</p>
+    <h2>Daniel</h2>
+    </mj-text>
+  </mj-column>
+</mj-section>
+
+<mj-section padding="0" background-color="#e8e8e8">
+  <mj-column padding="0">
+    <mj-image padding=0 src="../../assets/newsletter-5/daniel-werk.jpg" />
+  </mj-column>
+</mj-section>
+
+<mj-section padding="0" background-color="white">
+  <mj-column padding="0">
+    <mj-text>
+    Een pagina uit het boek <em>Jesus gives us new life</em>
+    </mj-text>
+  </mj-column>
+</mj-section>
+
+<mj-section padding="0" background-color="white">
+  <mj-column padding="0">
+    <mj-text>
+        <p>Cras sed volutpat ex. Morbi molestie rutrum nunc ut posuere. Mauris eu risus augue. Duis feugiat sagittis nisl. Nam blandit est nec felis pulvinar ultrices. Cras porttitor odio varius risus venenatis, sed faucibus eros porta. Integer vitae interdum ex. </p>
     </mj-text>
   </mj-column>
 </mj-section>
