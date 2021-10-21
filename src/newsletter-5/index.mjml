@@ -1,0 +1,34 @@
+<mjml>
+  <mj-head>
+    <mj-preview>Vriendelijke groeten vanuit Oostenrijk. We zijn erg dankbaar voor jullie betrokkenheid, gebeden, berichten en de financiele inbreng. We blijven nog een jaar in Oostenrijk.</mj-preview>
+    <mj-attributes>
+    </mj-attributes>
+    <mj-style inline="inline">
+      .link-nostyle { color: inherit; text-decoration: none } 
+    </mj-style>
+  </mj-head>
+  <mj-body padding="0" background-color="#e8e8e8">
+      <mj-section background-color="#e8e8e8"></mj-section>
+    <mj-section padding=0>
+      <mj-column padding=0>
+        <mj-image padding=0 src="../../assets/newsletter-5/header-5.jpg" />
+      </mj-column>
+    </mj-section>
+    
+    <mj-include path="./welkom.mjml" />
+    <mj-section background-color="#e8e8e8"></mj-section>
+
+    <mj-include path="./financieen.mjml" />
+
+
+    <mj-include path="./wilma.mjml" />
+
+    <mj-include path="./daniel.mjml" />
+    <mj-section background-color="#e8e8e8"></mj-section>
+
+    <mj-section background-color="white"></mj-section>
+
+    <mj-include path="../footer.mjml" />
+
+  </mj-body>
+</mjml>

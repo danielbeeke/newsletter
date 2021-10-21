@@ -1,5 +1,0 @@
-# Beste familie, vrienden en kennissen
-
-Vriendelijke groeten vanuit Oostenrijk. We zijn erg dankbaar voor jullie betrokkenheid, gebeden, berichten en de financiele inbreng. We zijn dankbaar dat we zo samen met jullie bij kunnen dragen aan het verspreiden van het Evangelie en Gods liefde bekent kunnen maken aan mensen die daar weinig toegang tot hebben.
-
-Afgelopen periode hebben we nagedacht of we nog een jaar hier ons zullen inzetten en dat gaan we doen! Dat geeft ons de mogelijkheid om nog nieuwe projecten te starten en verder te gaan met reeds begonnen projecten. We hebben er zin in om ons verder hier in te zetten. 
