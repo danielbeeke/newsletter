@@ -18,7 +18,7 @@ html {
       <mj-section background-color="#e8e8e8" padding="5px"></mj-section>
     <mj-section padding=0>
       <mj-column padding=0>
-        <mj-image padding=0 src="../../assets/newsletter-5/header-5.jpg" />
+        <mj-image padding=0 src="../../assets/newsletter-5/header.jpg" />
       </mj-column>
     </mj-section>
     
