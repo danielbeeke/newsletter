@@ -14,9 +14,11 @@ Heeft u onze missie afgelopen jaar door middel van een maandelijkse donatie fina
 
 ## Wilma's werk
 
-Sermon on the mount
-Logo MediaWorks
+### Sermon on the mount
+### Logo MediaWorks
 
 ## Daniel's werk
 MEP
 Werk / meetup / quiz.
+
+## Gebedspunten
