@@ -1,0 +1,8 @@
+<mj-section padding="0" background-color="white">
+  <mj-column padding="0">
+    <mj-text>
+        <h2>Sponsoring</h2>
+        <p>Heeft u onze missie afgelopen jaar door middel van een maandelijkse donatie financieel ondersteund? Dan zal deze vanzelf door gaan indien u dat dit jaar ook wilt doen. Kunt of wilt u dit jaar onze missie niet meer ondersteunen, neem dan contact op met het thuisfrontteam.</p>
+    </mj-text>
+  </mj-column>
+</mj-section>
