@@ -18,7 +18,13 @@ Heeft u onze missie afgelopen jaar door middel van een maandelijkse donatie fina
 ### Logo MediaWorks
 
 ## Daniel's werk
-MEP
-Werk / meetup / quiz.
+
+Afgelopen maanden zijn we met een team bezig geweest om de nieuwe eBook website te testen op allerlei verschillende telefoons, tablets en laptops. Helaas zijn er allemaal kleine verschillen tussen bijvoorbeeld Android en iPhones. Die kleine verschillen zijn vaak wel op te lossen en daarn zijn we druk mee bezig. We zijn bijna zo ver om de twee eBook websites online te zetten. 
+
+Verder ben ik bezig om een bedrijfje op te zetten in Oostenrijk. Op de woensdagen werk ik als freelancer voor mijn oude werkgever. Dit zorgt ervoor dat we een groot deel van het gat in ons budget kunnen aanvullen. Naast dit werk heb ik ook een paar kleine opdrachtjes gedaan voor een universiteit in Gent, dit is leuk werk en dit zou ik graag in de toekomst meer doen. Naast deze twee werkgevers ben ik op zoek naar meer kleine opdrachtjes die ik uitgespreid op de woensdagen zou kunnen doen om zo ons budget aan te vullen tot 100%. Heb je ook een website die je wilt laten maken en heeft het niet al te veel haast (aangezien ik alleen op woensdagen eraan werk), neem dan contact op ;). 
+
+Een tijdje geleden heb ik voor ons een team een quiz georganiseerd. Misschien ken je Kahoot wel, in ieder geval, het was een digitale quiz waarbij iedereen op zijn eigen scherm de juiste antwoorden moest aanklikken, daarna was snel zichtbaar wat iedereen aangeklikt had. Dit was erg leuk om te maken en we hebben met het hele team veel over elkaar en over de geschiedenis van het team geleerd. OM East had bijvoorbeeld op een zeker moment rond 30 auto's om bijbels te smokkelen achter het ijzeren gordijn.
+
+Naast al deze zaken die zich afspelen rondom het vrijwilligerswerk probeer ik ook technisch steeds op de hoogte te blijven van nieuwe ontwikkelingen in mijn vakgebied. Daarom ben ik op zoek gegaan naar lezingen daarover. Ik ben een paar weken terug voor het eerst naar een meetup van ViennaJS geweest, erg leuk en leerzaam en het is erg leuk om andere programmeurs hier rondom Wenen te leren kennen.
 
 ## Gebedspunten

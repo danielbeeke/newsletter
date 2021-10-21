@@ -1,24 +1,21 @@
-<mjml>
+<mjml background-color="#e8e8e8">
   <mj-head>
     <mj-preview>Vriendelijke groeten vanuit Oostenrijk. We zijn erg dankbaar voor jullie betrokkenheid, gebeden, berichten en de financiele inbreng. We blijven nog een jaar in Oostenrijk.</mj-preview>
-
-    <mj-style>
-    	body {
-      	  margin: 0px;
-      	  padding: 0px;
-          background-color: #e8e8e8;
-        }
-        html {
-          background-color: #e8e8e8;
-        }
-    </mj-style>
-
     <mj-style inline="inline">
+      * {
+        line-height: 1.5 !important;
+      }
+
+html {
+  background-color: #e8e8e8;
+}
+
       .link-nostyle { color: inherit; text-decoration: none } 
     </mj-style>
   </mj-head>
-  <mj-body padding="0" background-color="#e8e8e8">
-      <mj-section background-color="#e8e8e8"></mj-section>
+  <mj-body font-family="Arial" padding="0" background-color="#e8e8e8">
+      <mj-wrapper full-width="full-width" background-color="#e8e8e8">
+      <mj-section background-color="#e8e8e8" padding="5px"></mj-section>
     <mj-section padding=0>
       <mj-column padding=0>
         <mj-image padding=0 src="../../assets/newsletter-5/header-5.jpg" />
@@ -27,14 +24,17 @@
     
     <mj-include path="./welkom.mjml" />
     <mj-section background-color="#e8e8e8" padding="5px"></mj-section>
-
+    
+    <mj-section background-color="white" padding="5px"></mj-section>
     <mj-include path="./financieen.mjml" />
 
     <mj-section background-color="#e8e8e8" padding="5px"></mj-section>
+    <mj-section background-color="white" padding="5px"></mj-section>
 
     <mj-include path="./wilma.mjml" />
 
     <mj-section background-color="#e8e8e8" padding="5px"></mj-section>
+  <mj-section background-color="white" padding="5px"></mj-section>
 
     <mj-include path="./daniel.mjml" />
     <mj-section background-color="#e8e8e8"></mj-section>
@@ -42,6 +42,6 @@
     <mj-section background-color="white"></mj-section>
 
     <mj-include path="../footer.mjml" />
-
+  </mj-wrapper>
   </mj-body>
 </mjml>
