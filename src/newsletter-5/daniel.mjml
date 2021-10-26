@@ -1,14 +1,8 @@
 <mj-section padding="0" background-color="white">
   <mj-column padding="0">
     <mj-text>
-    <h2>Daniel</h2>
-    </mj-text>
-  </mj-column>
-</mj-section>
+        <h2>Daniël</h2>
 
-<mj-section padding="0" background-color="white">
-  <mj-column padding="0">
-    <mj-text>
         <p>
 Afgelopen maanden zijn we met een team bezig geweest om de nieuwe eBook website te testen op allerlei verschillende telefoons, tablets en laptops. Helaas zijn er allemaal kleine verschillen tussen bijvoorbeeld Android en iPhones. Die kleine verschillen zijn vaak wel op te lossen en daarn zijn we druk mee bezig. We zijn bijna zo ver om de twee eBook websites online te zetten. 
 </p>
@@ -21,7 +15,13 @@ Afgelopen maanden zijn we met een team bezig geweest om de nieuwe eBook website 
     <mj-image padding=0 src="../../assets/newsletter-5/daniel-werk.jpg" />
   </mj-column>
 </mj-section>
-
+<mj-section padding="0" background-color="white">
+  <mj-column padding="0">
+    <mj-text>
+    De eBook website op een laptop en telefoon
+    </mj-text>
+  </mj-column>
+</mj-section>
 
 <mj-section padding="0" background-color="white">
   <mj-column padding="0">
