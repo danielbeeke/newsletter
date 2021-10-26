@@ -13,6 +13,16 @@ De foto die je ziet boven aan de nieuwsbrief is gemaakt in de Rax Alpen. We zijn
 Heeft u onze missie afgelopen jaar door middel van een maandelijkse donatie financieel ondersteund? Dan zal deze vanzelf door gaan indien u dat dit jaar ook wilt doen. Kunt of wilt u dit jaar onze missie niet meer ondersteunen, neem dan contact op met het thuisfrontteam.
 
 ## Wilma's werk
+De Bergrede voor Himalaya-bewoners
+
+Mijn uitdaging van afgelopen tijd: Hoe maak je van een kaal worddocument een aantrekkelijk billingual (tweetalig) boek? 
+Waar moet je eigenlijk aan denken bij het ontwerpen van zo’n boek?
+Kleur. Ik heb gekozen voor oranje, een populaire kleur bij deze bevolking. En voor blauw, een mooie rustigere contrastkleur.
+Welke structuur krijgen de pagina’s? Links staat steeds alle himalaya tekst, op een subtiel blauwe achtergrond, ook alle koppen en andere elementen zijn hier blauw. Rechts staat de engelse vertaling, alle koppen enz. zijn hier steeds oranje. Dit maakt de pagina overzichtelijk.
+Wat kan geautomatiseerd? In de hymalaya tekst moesten bepaalde tekens een aparte opmaak krijgen. Om dit snel te kunnen doen heb ik een soort formule gemaakt die alle himelaya tekst scant en al deze speciale tekens in 1 keer selecteerd en aanpast, super makkelijk. Een stuk sneller dan alle 200 pagina’s checken en elk speciale teken met de hand aanpassen.
+Twee totaal verschillende schriften naast elkaar kan al snel rommelig en onrustig ogen. Ik heb daarom net zo lang gepuzzeld tot ik de ideale regelafstand en kolombreedte vond voor beide schriften. Hierdoor ziet de pagina er rustig uit en staat de himalaya tekst en de engelse tekst zoveel mogelijk op dezelfde hoogte.
+
+Een uitdagend project! Mijn gedeelte is inmiddels afgerond en dit boek kan binnenkort naar de drukker.
 
 ### Sermon on the mount
 ### Logo MediaWorks
