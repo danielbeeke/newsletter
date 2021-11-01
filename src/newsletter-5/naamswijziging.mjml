@@ -16,7 +16,7 @@
 
 <mj-section padding="0" background-color="#f2f2f2">
   <mj-column padding="0">
-    <mj-text>
+    <mj-text padding-left="20px" padding-top="0" padding-right="20px">
       <p>
       <em>Een aantal ideeën voor het nieuwe logo</em>
       </p>

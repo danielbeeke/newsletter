@@ -17,8 +17,10 @@ Afgelopen maanden zijn we met een team bezig geweest om de nieuwe eBook website 
 </mj-section>
 <mj-section padding="0" background-color="white">
   <mj-column padding="0">
-    <mj-text>
-    De eBook website op een laptop en telefoon
+    <mj-text padding-left="20px" padding-top="0" padding-right="20px">
+    <p>
+      <em>De eBook website op een laptop en telefoon</em>
+    </p>
     </mj-text>
   </mj-column>
 </mj-section>
