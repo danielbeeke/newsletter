@@ -1,4 +1,4 @@
-<mjml background-color="#e8e8e8" padding="0">
+<mjml background-color="#f2f2f2" padding="0">
   <mj-head>
     <mj-preview>Vriendelijke groeten vanuit Oostenrijk. We zijn erg dankbaar voor jullie betrokkenheid, gebeden, berichten en de financiele inbreng. We blijven nog een jaar in Oostenrijk.</mj-preview>
     <mj-style inline="inline">
@@ -27,7 +27,7 @@
       }
 
       html {
-        background-color: #e8e8e8;
+        background-color: #f2f2f2;
       }
 
       .link-nostyle {
@@ -36,9 +36,9 @@
       }
     </mj-style>
   </mj-head>
-  <mj-body font-family="Arial" padding="0" background-color="#e8e8e8">
-    <mj-wrapper full-width="full-width" background-color="#e8e8e8" padding="0">
-    <mj-section background-color="#e8e8e8" padding="0">
+  <mj-body font-family="Arial" padding="0" background-color="#f2f2f2">
+    <mj-wrapper full-width="full-width" background-color="#f2f2f2" padding="0">
+    <mj-section background-color="#f2f2f2" padding="0">
       <mj-column padding="0">
         <mj-text align="center" padding-top="20px" padding-left="30px" padding-right="30px">
           <p>Is deze mail niet goed leesbaar? Klik <a href="https://newsletter.danielbeeke.nl/exports/newsletter-5.html">hier</a> voor de webversie.</p>
@@ -47,7 +47,7 @@
     </mj-section>
       <mj-section padding=0>
         <mj-column padding=0>
-          <mj-image padding="0" src="../../assets/newsletter-5/header.jpg" />
+          <mj-image padding="0" src="https://newsletter.danielbeeke.nl/assets/newsletter-5/header.jpg" />
         </mj-column>
       </mj-section>
 
@@ -57,7 +57,7 @@
 
       <mj-section padding="0" background-color="white">
         <mj-column padding="0">
-          <mj-image padding-left="20px" padding-right="20px" src="../../assets/newsletter-5/wilma-daniel.jpg" />
+          <mj-image padding-left="20px" padding-right="20px" src="https://newsletter.danielbeeke.nl/assets/newsletter-5/wilma-daniel.jpg" />
         </mj-column>
       </mj-section>
       <mj-include path="../divider.mjml" />
@@ -80,7 +80,7 @@
       <mj-include path="../divider.mjml" />
 
       <mj-include path="./gebedspunten.mjml" />
-      <mj-section background-color="white" padding="10px"></mj-section>
+      <mj-section background-color="#f2f2f2" padding="10px"></mj-section>
       <mj-include path="../footer.mjml" />
     </mj-wrapper>
   </mj-body>
