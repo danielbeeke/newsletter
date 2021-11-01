@@ -2,28 +2,7 @@
   <mj-column padding="0">
     <mj-text>
       <h2>De Bergrede voor Himalaya-bewoners <em>(Wilma)</em></h2>
-      <p>Een mooie uitdaging: hoe maak ik van een kaal word document een aantrekkelijk tweetalig boek?
-</p>
-    </mj-text>
-  </mj-column>
-</mj-section>
-
-<mj-section padding="0" background-color="#e8e8e8">
-  <mj-column padding="0">
-    <mj-image padding=0 src="../../assets/newsletter-5/Wilma-werk.jpg" />
-  </mj-column>
-</mj-section>
-
-<mj-section padding="0" background-color="white">
-  <mj-column padding="0">
-    <mj-text>
-    Een pagina uit het boek <em>Jesus gives us new life</em>
-    </mj-text>
-  </mj-column>
-</mj-section>
-<mj-section padding="0" background-color="white">
-  <mj-column padding="0">
-    <mj-text>
+      <p>Afgelopen tijd heb ik gewerkt aan een tweetalig boek over de bergrede, voor himalaya-bewoners. Een uitdagend project! Hoe maak je nu van een kaal worddocument een aantrekkelijk boek?</p>
       <p>
 <ul>
   <li>
@@ -46,3 +25,15 @@ Een leuk project! Mijn gedeelte is inmiddels afgerond, dit boek kan binnenkort n
   </mj-column>
 </mj-section>
 
+<mj-section padding="0" background-color="#e8e8e8">
+  <mj-column padding="0">
+    <mj-image padding=0 src="../../assets/newsletter-5/Wilma-werk.jpg" />
+  </mj-column>
+</mj-section>
+<mj-section padding="0" background-color="white">
+  <mj-column padding="0">
+    <mj-text>
+    Een pagina uit het boek <em>Jesus gives us new life</em>
+    </mj-text>
+  </mj-column>
+</mj-section>

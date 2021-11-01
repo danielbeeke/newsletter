@@ -25,7 +25,7 @@
         </mj-text>
       </mj-column>
     </mj-section>
-      <mj-section background-color="#e8e8e8" padding="5px"></mj-section>
+      <mj-section background-color="#e8e8e8" padding="20px"></mj-section>
       <mj-section padding=0>
         <mj-column padding=0>
           <mj-image padding=0 src="../../assets/newsletter-5/header.jpg" />
@@ -40,20 +40,20 @@
         </mj-column>
       </mj-section>
 
-      <mj-section background-color="#e8e8e8" padding="5px"></mj-section>
+      <mj-section background-color="#e8e8e8" padding="20px"></mj-section>
       <mj-section background-color="white" padding="5px"></mj-section>
 
       <mj-include path="./wilma.mjml" />
-      <mj-section background-color="#e8e8e8" padding="5px"></mj-section>
+      <mj-section background-color="#e8e8e8" padding="20px"></mj-section>
       <mj-section background-color="white" padding="5px"></mj-section>
       <mj-include path="./financieen.mjml" />
 
-      <mj-section background-color="#e8e8e8" padding="5px"></mj-section>
+      <mj-section background-color="#e8e8e8" padding="20px"></mj-section>
       <mj-section background-color="white" padding="5px"></mj-section>
 
       <mj-include path="./daniel.mjml" />
 
-      <mj-section background-color="#e8e8e8" padding="5px"></mj-section>
+      <mj-section background-color="#e8e8e8" padding="20px"></mj-section>
       <mj-section background-color="white" padding="5px"></mj-section>
 
       <mj-include path="./naamswijziging.mjml" />
