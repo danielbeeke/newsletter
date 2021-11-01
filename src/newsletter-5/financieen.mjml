@@ -2,8 +2,7 @@
   <mj-column padding="0">
     <mj-text padding-top="0">
         <h2>Machtigingen</h2>
-        <p>Heeft u onze missie afgelopen jaar door middel van een maandelijkse donatie financieel ondersteund? Daar zijn we heel dankbaar voor! Deze zal vanzelf door gaan indien u een doorlopende machtiging hebt gemaakt.
-        Wilt u ons dit jaar ook weer steunen? Dan hoeft u niets te doen. Kunt of wilt u dit jaar onze missie niet meer ondersteunen, stuur dan een email naar het <a href="mailto:tft@daniel-wilma.nl">thuisfrontteam</a>.</p>
+        <p>Heeft u onze missie afgelopen jaar door middel van een maandelijkse donatie financieel ondersteund? Daar zijn we heel dankbaar voor! Deze zal vanzelf door gaan indien u een doorlopende machtiging hebt gemaakt. Kunt of wilt u dit jaar onze missie niet meer ondersteunen, stuur dan een email naar het <a href="mailto:tft@daniel-wilma.nl">thuisfrontteam</a>.</p>
     </mj-text>
   </mj-column>
 </mj-section>
