@@ -1,4 +1,4 @@
-<mj-section padding="0" background-color="white">
+<mj-section padding="0" background-color="#f2f2f2">
   <mj-column padding="0">
     <mj-text>
         <h2>Testen van eBook websites <em>(Daniël)</em></h2>
@@ -10,12 +10,12 @@ Afgelopen maanden zijn we met een team bezig geweest om de nieuwe eBook website 
   </mj-column>
 </mj-section>
 
-<mj-section padding="0" background-color="white">
+<mj-section padding="0" background-color="#f2f2f2">
   <mj-column padding="0">
     <mj-image padding-left="20px" padding-right="20px" src="https://newsletter.danielbeeke.nl/assets/newsletter-5/daniel-werk.jpg" />
   </mj-column>
 </mj-section>
-<mj-section padding="0" background-color="white">
+<mj-section padding="0" background-color="#f2f2f2">
   <mj-column padding="0">
     <mj-text padding-left="20px" padding-top="0" padding-right="20px">
     <p>
@@ -25,7 +25,7 @@ Afgelopen maanden zijn we met een team bezig geweest om de nieuwe eBook website 
   </mj-column>
 </mj-section>
 
-<mj-section padding="0" background-color="white">
+<mj-section padding="0" background-color="#f2f2f2">
   <mj-column padding="0">
     <mj-text>
 <p>

@@ -1,20 +1,3 @@
-<mj-section background-color="white">
-    <mj-column>
-        <mj-text align="center" padding-left="60px" padding-right="60px">
-            <h2>Support</h2>
-            <p>
-            <strong>Wilt u bijdragen aan de missie van OM en deel zijn van het werk dat Daniël & Wilma daarin doen?</strong>
-            </p>
-            <p>
-            Dat kan via het <a href="https://operatiemobilisatie.nl/danielenwilma">online donatieformulier</a>
-            </p>
-            <p>
-            Of via IBAN: NL13 RABO 0114 2329 38 t.n.v. Operatie Mobilisatie. O.v.v. “Daniel en Wilma MediaWorks” <em>(Belangrijk om dit te vermelden!)</em>
-            </p>
-        </mj-text>
-    </mj-column>
-</mj-section>
-
 <mj-section background-color="#D22630">
     <mj-column>
     <mj-text color="white">

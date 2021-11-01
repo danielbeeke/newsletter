@@ -1,6 +1,7 @@
 <mjml background-color="#f2f2f2" padding="0">
   <mj-head>
-    <mj-preview>Vriendelijke groeten vanuit Oostenrijk. We zijn erg dankbaar voor jullie betrokkenheid, gebeden, berichten en de financiele inbreng. We blijven nog een jaar in Oostenrijk.</mj-preview>
+    <mj-title>We gaan nog een jaar!</mj-title>
+    <mj-preview>Bedankt voor jullie betrokkenheid, gebeden, berichten en financiële support afgelopen jaar!</mj-preview>
     <mj-style inline="inline">
       * {
         line-height: 1.6;
@@ -62,7 +63,6 @@
       </mj-section>
       <mj-include path="../divider.mjml" />
 
-
       <mj-include path="./naamswijziging.mjml" />
 
       <mj-include path="../divider.mjml" />
@@ -71,17 +71,34 @@
 
       <mj-include path="../divider.mjml" />
 
-      <mj-include path="./financieen.mjml" />
-
-      <mj-include path="../divider.mjml" />
-
       <mj-include path="./daniel.mjml" />
 
       <mj-include path="../divider.mjml" />
 
+      <mj-include path="./financieen.mjml" />
+
       <mj-include path="./gebedspunten.mjml" />
-      <mj-section background-color="#f2f2f2" padding="10px"></mj-section>
+
+      <mj-section padding-top="10px" background-color="white">
+          <mj-column>
+              <mj-text align="center" padding-left="60px" padding-right="60px" padding-top="0">
+                  <h2>Support</h2>
+                  <p>
+                  <strong>Wilt u bijdragen aan de missie van OM en deel zijn van het werk dat Daniël & Wilma daarin doen?</strong>
+                  </p>
+                  <p>
+                  Dat kan via het <a href="https://operatiemobilisatie.nl/danielenwilma">online donatieformulier</a>
+                  </p>
+                  <p>
+                  Of via IBAN: NL13 RABO 0114 2329 38 t.n.v. Operatie Mobilisatie. O.v.v. “Daniel en Wilma MediaWorks” <em>(Belangrijk om dit te vermelden!)</em>
+                  </p>
+              </mj-text>
+          </mj-column>
+      </mj-section>
+
+
       <mj-include path="../footer.mjml" />
+
     </mj-wrapper>
   </mj-body>
 </mjml>
