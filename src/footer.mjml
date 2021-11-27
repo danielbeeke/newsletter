@@ -3,12 +3,16 @@
     <mj-text color="white">
         <h3>Contactgegevens</h3>
         <p>
-        <a href="mailto:daniel.beeke@om.org" class="link-nostyle">daniel.beeke@om.org</a> • <a href="tel:0031637346364" class="link-nostyle">+31 6 37346364</a><br />
-        <a href="mailto:wilma.vis@om.org" class="link-nostyle">wilma.vis@om.org</a> • <a href="tel:0031630170065" class="link-nostyle">+31 6 30170065</a>
+            <a href="mailto:daniel.beeke@om.org" class="link-nostyle">daniel.beeke@om.org</a> • <a href="tel:0031637346364" class="link-nostyle">+31 6 37346364</a><br />
+            <a href="mailto:wilma.vis@om.org" class="link-nostyle">wilma.vis@om.org</a> • <a href="tel:0031630170065" class="link-nostyle">+31 6 30170065</a>
         </p>
-        <br />
-        <h4>Adres Daniël & Wilma</h4>
-        <p> Grünnergasse 2, Flat 4<br /> 2000, Stockerau<br /> Oostenrijk </p>
+        <h3>Adres Daniël & Wilma</h3>
+        <p> Grünnergasse 2, Flat 4<br /> 2000, Stockerau<br /> Oostenrijk 
+        <br>
+        <br>
+        Meer weten? <strong><a class="link-nostyle" href="https://daniel-wilma.nl">daniel-wilma.nl</a></strong>
+        </p>
+
     </mj-text>
     </mj-column>
     <mj-column>
@@ -16,6 +20,15 @@
         <h3>Thuisfront Team</h3>
         <p> Elsbeth Beeke • <a href="mailto:tft@daniel-wilma.nl" class="link-nostyle">tft@daniel-wilma.nl</a><br />
         </p>
+
+                  <h3>Support</h3>
+                  <p>
+                  Wilt u doneren?
+                  Dat kan via het <strong><a class="link-nostyle" href="https://operatiemobilisatie.nl/danielenwilma">online donatieformulier</a></strong>
+                  Of via IBAN: NL13 RABO 0114 2329 38 t.n.v. Operatie Mobilisatie o.v.v. “Daniel en Wilma MediaWorks”
+                  </p>
+
+
     </mj-text>
     </mj-column>
 </mj-section>
