@@ -15,7 +15,7 @@ async function sendMail () {
   let subscribers = sheetData.rows;
 
   if (process.argv[3]) {
-    console.log(subscribers.map(subscriber => subscriber.Email));
+    subscribers.map(subscriber => console.log(subscriber.Email))
     console.log(subscribers.length);
     return;
   }
