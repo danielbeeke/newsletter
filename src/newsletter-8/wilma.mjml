@@ -1,0 +1,40 @@
+<mj-section padding="0" background-color="white">
+  <mj-column padding="0">
+    <mj-text>
+      <h2>De Bergrede voor Himalaya-bewoners <em>(Wilma)</em></h2>
+      <p>Afgelopen tijd heb ik gewerkt aan een tweetalig boek over de bergrede, voor himalaya-bewoners. <strong>Hoe maak je nu van een kaal worddocument een aantrekkelijk boek?</strong></p>
+      <p>
+<ul>
+  <li>
+  <b>Kleur helpt.</b> Ik koos voor oranje, een populaire kleur bij deze bevolking. En voor blauw, een mooi rustige contrastkleur.
+  </li>
+  <li>
+  <b>Een heldere paginastructuur.</b> Op elke pagina staat steeds links alle Himalaya tekst, met blauwe opmaak. Rechts staat de Engelse vertaling, met oranje accenten. 
+  </li>
+  <li>
+  <b>Help, twee totaal verschillende talen op 1 pagina!</b> Ik heb net zo lang gepuzzeld tot ik de ideale regelafstand vond voor beide schriften. Hierdoor staan Himalaya tekst + Engelse vertaling zoveel mogelijk op dezelfde hoogte en ziet het geheel er rustig uit. 
+  </li>
+  <li>
+    <b>Voor terugkerende dingen</b> heb ik zoveel mogelijk formules en stijlen gemaakt die het saaie werk doen, wel zo handig bij een boek van 200 pagina’s! 
+  </li>
+</ul>
+<p>Een leuk project! Mijn gedeelte is inmiddels afgerond, dit boek kan binnenkort naar de drukker.
+</p>
+
+</p>
+    </mj-text>
+  </mj-column>
+</mj-section>
+
+<mj-section padding="0" background-color="white">
+  <mj-column padding="0">
+    <mj-image padding-left="20px" padding-right="20px" src="https://newsletter.danielbeeke.nl/assets/newsletter-5/Wilma-werk.jpg" />
+  </mj-column>
+</mj-section>
+<mj-section padding="0" background-color="white">
+  <mj-column padding="0">
+    <mj-text padding-left="20px" padding-top="0" padding-right="20px">
+    <p><em>Een pagina uit het boek Jesus gives us new life</em></p>
+    </mj-text>
+  </mj-column>
+</mj-section>

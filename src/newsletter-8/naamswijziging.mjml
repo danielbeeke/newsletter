@@ -1,0 +1,25 @@
+<mj-section padding="0" background-color="#f2f2f2">
+  <mj-column padding="0">
+    <mj-text>
+      <h2>OM EAST is nu <strong>MediaWorks</strong></h2>
+
+      <p><strong>Sinds kort is de naam OM EAST veranderd naar MediaWorks.</strong> We zijn nog steeds onderdeel van OM, maar deze nieuwe naam past iets beter: de focus is afgelopen jaren verschoven van boeken smokkelen (Oost-Europa) naar strategisch advies, boeken en digitale media (internationaal). De naam is ook duidelijker: we doen dingen met media. Wilma is afgelopen tijd bezig geweest met het nieuwe logo hiervoor.</p>
+
+    </mj-text>
+  </mj-column>
+</mj-section>
+<mj-section padding="0" background-color="#f2f2f2">
+  <mj-column padding="0">
+    <mj-image padding-left="20px" padding-right="20px" src="https://newsletter.danielbeeke.nl/assets/newsletter-5/wilma-werk-2.jpg" />
+  </mj-column>
+</mj-section>
+
+<mj-section padding="0" background-color="#f2f2f2">
+  <mj-column padding="0">
+    <mj-text padding-left="20px" padding-top="0" padding-right="20px">
+      <p>
+      <em>Een aantal ideeën voor het nieuwe logo</em>
+      </p>
+    </mj-text>
+  </mj-column>
+</mj-section>
