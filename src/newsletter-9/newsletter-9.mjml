@@ -49,6 +49,7 @@
       <mj-section padding=0>
         <mj-column padding=0>
           <mj-image padding="0" src="https://newsletter.danielbeeke.nl/assets/newsletter-9/header.jpg" />
+          <mj-image padding="0" src="https://newsletter.danielbeeke.nl/assets/newsletter-9/footer.jpg" />
         </mj-column>
       </mj-section>
 
