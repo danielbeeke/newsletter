@@ -1,7 +1,7 @@
 <mjml background-color="#f2f2f2" padding="0">
   <mj-head>
     <mj-title>🦌✍️ Kerstkaartenactie</mj-title>
-    <mj-preview>December komt er aan, er is hier gisteren zelfs al een dik pak sneeuw gevallen!</mj-preview>
+    <mj-preview>Het is weer December! Voor ons is afgelopen jaar echt voorbij gevlogen. Bedankt voor jullie support afgelopen jaar!</mj-preview>
     <mj-style inline="inline">
       * {
         line-height: 1.6;
@@ -58,6 +58,7 @@
         <mj-column padding="0">
           <mj-text>
             <p class="body">
+            <br>
 <strong>Het is weer December!</strong><br><br>
 
 Voor ons is afgelopen jaar echt voorbij gevlogen. Bedankt voor jullie support afgelopen jaar! We hopen jullie komende tijd weer een update te geven over de projecten waar we aan gewerkt hebben de afgelopen maanden. In November hebben we na een aantal gesprekken de knoop doorgehakt en besloten om hier nog een jaar te blijven, ook daarover binnenkort meer.
