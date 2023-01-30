@@ -1,0 +1,54 @@
+<mj-section padding="0" background-color="white">
+  <mj-column padding="0">
+    <mj-text>
+      <h2>Terugblik Daniel</h2>
+      <p>
+        Afgelopen jaar heb ik mijn programmeer vaardigheden voor verschillende onderwerpen mogen inzetten die allemaal ten goede komen aan LightNet, het product waar ik hoofdzakelijk aan werk.
+      </p>
+    </mj-text>
+  </mj-column>
+</mj-section>
+
+<mj-section padding="0" background-color="white">
+  <mj-column padding="0">
+    <mj-text>
+      <h3>Bundled Media</h3>
+      <p>
+        Bundled.media is een catalogus van Christelijke media. Het brengt verschillende bronnen in het Christelijke media landschap bij elkaar en maakt de media data uniform zodat het op een eenvoudige te gebruiken is voor missionaire stichtingen.
+      </p>
+      <p>
+        Wanneer een stichting start met LightNet krijgen ze als het ware een lege doos die ze nog moeten vullen met Christelijke media, bundled.media kan daarbij helpen. De stichting kan zoeken naar media in hun taal, voor hun doelgroep.
+      </p>
+    </mj-text>
+  </mj-column>
+
+  <mj-column padding="20px">
+    <mj-image padding="0" src="https://newsletter.danielbeeke.nl/assets/newsletter-10/bundled-media.png" />
+  </mj-column>
+</mj-section>
+
+<mj-section padding="0" background-color="white">
+  <mj-column padding="0">
+    <mj-text>
+      <h3>Taal kiezer</h3>
+      <p>
+        Een ander tooltje dat ik heb mogen maken is een taal kiezer. Het is een klein onderdeel wat verder overal ingezet kan worden. Wat ik leuk vind aan het tooltje is dat het duizenden talen en taal variaties ondersteund. Een taal variatie kan een dialect zijn maar het kan ook een taal zijn die nog geen standaard code heeft. Nederlands heeft de taalcode ‘nl’ zo zijn er dus duizenden codes voor al deze talen en dialecten.
+      </p>
+    </mj-text>
+  </mj-column>
+</mj-section>
+
+<mj-section padding="15px" background-color="white">
+  <mj-column padding=0>
+    <mj-image padding="0" src="https://newsletter.danielbeeke.nl/assets/newsletter-10/language-picker.png" />
+  </mj-column>
+  <mj-column padding="0">
+    <mj-text>
+      <p>
+        Ik gebruik de taalcodes van de HIS. De Christelijke stichting HIS is een stichting die samen met partners werkt om alle talen en dialecten te voorzien van een taalcode zodat in beeld gebracht kan worden in welke talen de bijbel nog vertaald moet worden.
+      </p>
+    </mj-text>
+  </mj-column>
+
+
+</mj-section>
