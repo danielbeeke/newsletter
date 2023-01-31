@@ -3,12 +3,11 @@
     "version": "0.0.0",
     "private": true,
     "dependencies": {
-      "easy-pdf-merge": "^0.2.2",
-      "google-spreadsheet": "^3.0.10",
-      "nodemailer-html-to-text": "^3.1.0",
-      "prompt-confirm": "^2.0.4",
-      "serverless-offline": "*",
-      "nodemailer": "^6.4.6"
+        "easy-pdf-merge": "^0.2.2",
+        "google-spreadsheet": "^3.0.10",
+        "nodemailer": "^6.8.0",
+        "nodemailer-html-to-text": "^3.1.0",
+        "prompt-confirm": "^2.0.4",
+        "serverless-offline": "*"
     }
-  }
-  
+}

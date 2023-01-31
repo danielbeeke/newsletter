@@ -32,7 +32,7 @@ async function sendMail () {
 
     let transporter = transporters[transporterName];
 
-    let answer = true // await prompt.run();
+    let answer = await prompt.run();
 
     if (answer) {
       try {
