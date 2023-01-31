@@ -5,8 +5,20 @@
 <p>
 
 In Oktober hebben we besloten nog een jaar te blijven. We zien er naar uit om verder te werken aan media voor Gods koninkrijk. 
-</p><p>
-Wilma zal verder gaan met illustraties, en grafisch ontwerp voor boeken en natuurlijk het visuele ontwerp van LightNet. 
+</p>
+    </mj-text>
+</mj-column>
+</mj-section>
+<mj-section padding="20px"  background-color="white">
+  <mj-column padding=0>
+    <mj-image padding="0" src="https://newsletter.danielbeeke.nl/assets/newsletter-10/ons.jpg" />
+  </mj-column>
+</mj-section>
+<mj-section padding="0" background-color="white">
+<mj-column padding="0">
+    <mj-text>
+<p>
+Wilma zal verder gaan met illustraties, grafisch ontwerp van boeken en natuurlijk het ontwerp van LightNet. 
 </p><p>
 Daniel zal verder gaan met het programmeren van LightNet. Dit jaar zal in het teken staan van het vinden van nieuwe vrijwilligers en het maken van een community van software ontwikkelaars rondom het product. We hebben inmiddels een groepje van mensen verzameld die in het bedrijfsleven met gerelateerde software werken. Vaak is het zo dat ze wel een voltijdbaan hebben. 
 </p>
@@ -16,7 +28,7 @@ Daniel zal verder gaan met het programmeren van LightNet. Dit jaar zal in het te
 
 <mj-section padding="20px"  background-color="white">
   <mj-column padding=0>
-    <mj-image padding="0" src="https://newsletter.danielbeeke.nl/assets/newsletter-10/ons.jpg" />
+    <mj-image href="https://mediaworks.global/dev" padding="0" src="https://newsletter.danielbeeke.nl/assets/newsletter-10/email-signature-lightnet.jpg" />
   </mj-column>
 </mj-section>
 
@@ -28,7 +40,7 @@ Daniel zal verder gaan met het programmeren van LightNet. Dit jaar zal in het te
 Ken je nog iemand die zijn of haar skills wil gebruiken voor Christelijke media, dan komen we graag in contact. 
 
 </p><p>
-Dit kan als een soort van stage van een paar maanden, het kan in de vorm van vrijwilligerswerk in de vrije tijd of net als Wilma en ik als volledige baan gedragen door sponsoren. We hebben een <a href="https://mediaworks.global/dev">advertentie</a> gemaakt voor de software developer rol.
+Dit kan als een soort van stage van een paar maanden, het kan in de vorm van vrijwilligerswerk in de vrije tijd of net als Wilma en ik als volledige baan gedragen door sponsoren. We hebben een <strong><a class="link-nostyle" href="https://mediaworks.global/dev">advertentie</a></strong> gemaakt voor de software developer rol.
 
 </p>
     </mj-text>

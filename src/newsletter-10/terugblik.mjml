@@ -23,7 +23,7 @@
   </mj-column>
 
   <mj-column padding="20px">
-    <mj-image padding="0" src="https://newsletter.danielbeeke.nl/assets/newsletter-10/bundled-media.png" />
+    <mj-image padding="0" href="https://bundled.media" src="https://newsletter.danielbeeke.nl/assets/newsletter-10/bundled-media.png" />
   </mj-column>
 </mj-section>
 
@@ -40,7 +40,7 @@
 
 <mj-section padding="15px" background-color="white">
   <mj-column padding=0>
-    <mj-image padding="0" src="https://newsletter.danielbeeke.nl/assets/newsletter-10/language-picker.png" />
+    <mj-image padding="0" href="https://bcp47.danielbeeke.nl" src="https://newsletter.danielbeeke.nl/assets/newsletter-10/language-picker.png" />
   </mj-column>
   <mj-column padding="0">
     <mj-text>
