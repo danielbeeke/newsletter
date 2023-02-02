@@ -53,6 +53,7 @@
       </mj-section>
 
       <mj-section background-color="white" padding="5px"></mj-section>
+      <mj-include path="./inleiding.mjml" />
 
       <mj-include path="./derde-jaar.mjml" />
       <mj-include path="./support.mjml" />
