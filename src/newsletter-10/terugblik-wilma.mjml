@@ -1,0 +1,64 @@
+
+<mj-section padding="0" background-color="#3b2f91">
+  <mj-column padding="0">
+    <mj-text color="white">
+      <h2 class="title-w" border="1px solid white">Terugblik Wilma</h2>
+    </mj-text>
+  </mj-column>
+</mj-section>
+
+<mj-section padding="0" background-color="#f0eefb">
+  <mj-column>
+      <mj-image padding="0" href="https://bundled.media" src="https://newsletter.danielbeeke.nl/assets/newsletter-10/graves-to-gardens-paars.jpg" />
+  </mj-column>
+  </mj-column>
+
+  <mj-column padding="0">
+    <mj-text color="#3b2f91">
+      <h3>Lorem ipsum</h3>
+    </mj-text>
+  </mj-column>
+</mj-section>
+
+<mj-section padding="0" background-color="white">
+  <mj-column padding="0">
+    <mj-text>
+      <h3 class="sub-title-w">Graves to gardens</h3>
+      <p>
+        Een mooie opdracht in 2022 vond ik de Paasbrochure voor een oostenrijkse stichting die werkt met mensen die gedwongen in de prostitutie werken of als huisslaaf. Veel van deze slachtoffers van mensenhandel hebben een migratieachtergrond, deze brochure is daarom in 14 talen gedrukt: van Engels tot Roemeens tot zelfs Chinees. 
+      </p>
+    </mj-text>
+  </mj-column>
+  </mj-section>
+<mj-section padding="0" background-color="white">
+  <mj-column padding="0">
+    <mj-image padding="0" href="https://bundled.media" src="https://newsletter.danielbeeke.nl/assets/newsletter-10/graves-to-gardens-paars.jpg" />
+  </mj-column>
+</mj-section>
+
+<mj-section padding="0" background-color="white">
+  <mj-column padding="0">
+    <mj-text>
+      <p>
+
+De titel ‘Graves to gardens’ heb ik als inspiratie gebruikt bij het creëren van de bloemenillustratie. De brochure start donker en grauw maar hoe verder je leest hoe meer bloemen en kleuren er verschijnen. Rond Pasen zijn ze uitgedeeld om zo iets van Hoop uit te delen. De flyers zijn erg goed ontvangen hoorde ik: er zijn meerdere herdrukken geweest en ze worden ook nu nog volop gebruikt.
+      </p>
+<br>
+          <h3 class="sub-title-w">Lost sheep</h3>
+
+      <p>
+Het verhaal van het verloren schaap is het eerste kinderboek dat is gepubliceerd in de Murtukh*-taal van de Kaukasus. De plaatselijke vertaler had tranen van vreugde en trots in zijn mensen toen hij het gedrukte boek zag. Hij zei: "Dit is het beste boek dat ik ooit in mijn leven heb gezien."
+
+      </p>
+    </mj-text>
+  </mj-column>
+  </mj-section>
+
+<mj-section padding="0" background-color="white">
+  <mj-column padding="0">
+    <mj-image padding="0" href="https://bundled.media" src="https://newsletter.danielbeeke.nl/assets/newsletter-10/lost-sheep.jpg" />
+    <mj-text align="right">
+    <em class="bijschrift">Gehaakte schapen als vingerpoppetjes in het boek verwerkt.</em>
+    </mj-text>
+  </mj-column>
+</mj-section>

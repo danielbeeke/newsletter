@@ -8,8 +8,8 @@
 
 <mj-section padding="0" background-color="white">
   <mj-column padding="0">
-    <mj-text>
-    <br>
+    <mj-text  padding="0 20px">
+    <br><br>
       <p>
         Afgelopen jaar heb ik mijn programmeer vaardigheden voor verschillende onderwerpen mogen inzetten die allemaal ten goede komen aan LightNet, het product waar ik hoofdzakelijk aan werk.
       </p>
@@ -20,7 +20,7 @@
 <mj-section padding="0" background-color="white">
   <mj-column padding="0">
     <mj-text>
-      <h3>Bundled Media</h3>
+      <h3 class="sub-title-d">Bundled Media</h3>
       <p>
         Bundled.media is een catalogus van Christelijke media. Het brengt verschillende bronnen in het Christelijke media landschap bij elkaar en maakt de media data uniform zodat het op een eenvoudige te gebruiken is voor missionaire stichtingen.
       </p>
@@ -38,7 +38,7 @@
 <mj-section padding="0" background-color="white">
   <mj-column padding="0">
     <mj-text>
-      <h3>Taal kiezer</h3>
+      <h3 class="sub-title-d">Taal kiezer</h3>
       <p>
         Een ander tooltje dat ik heb mogen maken is een taal kiezer. Het is een klein onderdeel wat verder overal ingezet kan worden. Wat ik leuk vind aan het tooltje is dat het duizenden talen en taal variaties ondersteund. Een taal variatie kan een dialect zijn maar het kan ook een taal zijn die nog geen standaard code heeft. Nederlands heeft de taalcode ‘nl’ zo zijn er dus duizenden codes voor al deze talen en dialecten.
       </p>
