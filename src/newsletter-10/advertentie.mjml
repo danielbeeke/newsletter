@@ -1,0 +1,25 @@
+
+<mj-section padding="0" background-color="white">
+<mj-column padding="0">
+    <mj-text>
+    <h2>Ken of ben jij een software developer?</h2>
+
+<p>
+
+Om het product echt van de grond te krijgen zou het heel erg behulpzaam zijn om nog meer mensen te vinden die hun steentje willen bijdragen.
+
+Dus ken jij nog iemand die zijn of haar skills wil gebruiken voor Christelijke media, dan komen we graag in contact. 
+
+</p><p>
+Dit kan als een soort van stage van een paar maanden, het kan in de vorm van vrijwilligerswerk in de vrije tijd of net als Wilma en ik als volledige baan gedragen door sponsoren. Voor meer info klik <strong><a class="link-nostyle" href="https://mediaworks.global/dev">hier</a></strong>. 
+</p>
+    </mj-text>
+</mj-column>
+</mj-section>
+
+<mj-section padding="20px"  background-color="white">
+  <mj-column padding=0>
+    <mj-image href="https://mediaworks.global/dev" padding="0" src="https://newsletter.danielbeeke.nl/assets/newsletter-10/email-signature-lightnet.jpg" />
+  </mj-column>
+</mj-section>
+

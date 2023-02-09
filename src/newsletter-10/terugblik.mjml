@@ -1,7 +1,15 @@
+<mj-section padding="0" background-color="#008bd0">
+  <mj-column padding="0">
+    <mj-text color="white">
+      <h2 class="title-d" border="1px solid white">Terugblik Daniel</h2>
+    </mj-text>
+  </mj-column>
+</mj-section>
+
 <mj-section padding="0" background-color="white">
   <mj-column padding="0">
     <mj-text>
-      <h2>Terugblik Daniel</h2>
+    <br>
       <p>
         Afgelopen jaar heb ik mijn programmeer vaardigheden voor verschillende onderwerpen mogen inzetten die allemaal ten goede komen aan LightNet, het product waar ik hoofdzakelijk aan werk.
       </p>
@@ -47,6 +55,23 @@
       <p>
         Ik gebruik de taalcodes van de HIS. De Christelijke stichting HIS is een stichting die samen met partners werkt om alle talen en dialecten te voorzien van een taalcode zodat in beeld gebracht kan worden in welke talen de bijbel nog vertaald moet worden.
       </p>
+
+
+
+    </mj-text>
+  </mj-column>
+
+
+</mj-section>
+
+<mj-section padding="0" background-color="white">
+  <mj-column padding="0">
+    <mj-text>
+
+<p>
+Ik zal verder gaan met het programmeren van LightNet. Dit jaar zal in het teken staan van het vinden van nieuwe vrijwilligers en het maken van een community van software ontwikkelaars rondom het product. We hebben inmiddels een groepje van mensen verzameld die in het bedrijfsleven met gerelateerde software werken. 
+</p>
+
     </mj-text>
   </mj-column>
 
