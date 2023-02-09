@@ -87,7 +87,7 @@
     </mj-section>
       <mj-section padding=0>
         <mj-column padding=0>
-          <mj-image padding="0" src="../../assets/newsletter-10/header_2.jpg" />
+          <mj-image padding="0" src="https://newsletter.danielbeeke.nl/assets/newsletter-10/header_2.jpg" />
         </mj-column>
       </mj-section>
 
@@ -99,8 +99,8 @@
       <mj-include path="./support.mjml" />
 
       <mj-include path="./terugblik-wilma.mjml" />
+      <mj-include path="./terugblik-daniel.mjml" />
       <mj-include path="./advertentie.mjml" />
-      <mj-include path="./terugblik.mjml" />
 
       <mj-include path="../divider.mjml" />
 

@@ -1,7 +1,7 @@
 
 <mj-section padding="0" background-color="#3b2f91">
   <mj-column padding="0">
-    <mj-text color="white">
+    <mj-text color="white" padding="20px">
       <h2 class="title-w" border="1px solid white">Terugblik Wilma</h2>
     </mj-text>
   </mj-column>
@@ -9,13 +9,15 @@
 
 <mj-section padding="0" background-color="#f0eefb">
   <mj-column>
-      <mj-image padding="0" href="https://bundled.media" src="https://newsletter.danielbeeke.nl/assets/newsletter-10/graves-to-gardens-paars.jpg" />
+      <mj-image padding="0" src="https://newsletter.danielbeeke.nl/assets/newsletter-10/wilma-werk.jpg" />
   </mj-column>
   </mj-column>
 
   <mj-column padding="0">
-    <mj-text color="#3b2f91">
-      <h3>Lorem ipsum</h3>
+    <mj-text color="#3b2f91" align="center">
+    <br><br><br>
+      <h3>"Wat ik mooi vond bij deze opdracht was dat ik heel vrij zelf een beeld kon creëren dat een hoopvol verhaal verteld."</h3>
+    <br><br><br>
     </mj-text>
   </mj-column>
 </mj-section>
@@ -30,15 +32,16 @@
     </mj-text>
   </mj-column>
   </mj-section>
-<mj-section padding="0" background-color="white">
+<mj-section padding="20px" background-color="white">
   <mj-column padding="0">
-    <mj-image padding="0" href="https://bundled.media" src="https://newsletter.danielbeeke.nl/assets/newsletter-10/graves-to-gardens-paars.jpg" />
+    <mj-image padding="0" src="https://newsletter.danielbeeke.nl/assets/newsletter-10/graves-to-gardens-paars.jpg" />
   </mj-column>
 </mj-section>
 
 <mj-section padding="0" background-color="white">
   <mj-column padding="0">
     <mj-text>
+    <br>
       <p>
 
 De titel ‘Graves to gardens’ heb ik als inspiratie gebruikt bij het creëren van de bloemenillustratie. De brochure start donker en grauw maar hoe verder je leest hoe meer bloemen en kleuren er verschijnen. Rond Pasen zijn ze uitgedeeld om zo iets van Hoop uit te delen. De flyers zijn erg goed ontvangen hoorde ik: er zijn meerdere herdrukken geweest en ze worden ook nu nog volop gebruikt.
@@ -54,11 +57,12 @@ Het verhaal van het verloren schaap is het eerste kinderboek dat is gepubliceerd
   </mj-column>
   </mj-section>
 
-<mj-section padding="0" background-color="white">
+<mj-section padding="20px" background-color="white">
   <mj-column padding="0">
-    <mj-image padding="0" href="https://bundled.media" src="https://newsletter.danielbeeke.nl/assets/newsletter-10/lost-sheep.jpg" />
+    <mj-image padding="0"  src="https://newsletter.danielbeeke.nl/assets/newsletter-10/lost-sheep.jpg" />
     <mj-text align="right">
     <em class="bijschrift">Gehaakte schapen als vingerpoppetjes in het boek verwerkt.</em>
+    <br><br><br>
     </mj-text>
   </mj-column>
 </mj-section>
