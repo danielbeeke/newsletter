@@ -1,0 +1,88 @@
+<mj-section padding="0" background-color="#008bd0">
+  <mj-column padding="0">
+    <mj-text color="white">
+      <h2 class="title-d" border="1px solid white">Terugblik Daniel</h2>
+    </mj-text>
+  </mj-column>
+</mj-section>
+
+<mj-section padding="0" background-color="#ecf4f6">
+  <mj-column>
+      <mj-image padding="0" src="https://newsletter.danielbeeke.nl/assets/newsletter-10/daniel.jpg" />
+  </mj-column>
+  </mj-column>
+
+  <mj-column padding="0">
+    <mj-text color="#008bd0" align="center">
+    <br><br>
+      <h3>"Ik vind het mooi om mee te mogen helpen aan de distributie van Christelijke media."</h3>
+    <br><br>
+    </mj-text>
+  </mj-column>
+</mj-section>
+
+<mj-section padding="0 20px" background-color="white">
+  <mj-column padding="0">
+    <mj-text  padding="0">
+    <br><br>
+
+      <h3 class="sub-title-d">Christelijke Media conferentie</h3>
+      <p>Afgelopen jaar zijn Wilma en ik naar een grote Christelijke media conferentie geweest, toevallig was dit in Nederland, op camping de Betteld. Er waren heel veel diverse mensen, zoals bijbel vertalers, programmeurs, video en fotograven en andere mensen die met Christelijke media het evangelie verkondigen.</p>
+      <p>Op deze conferentie hebben we veel geleerd en ook hebben we veel mensen leren kennen. Voor mij als programmeur was dit een verademing, allemaal mensen die mijn taal spraken ;). Daar is ook het idee voor bundled.media onstaan met een werkgroep van verschillende techneuten.</p>
+
+    </mj-text>
+  </mj-column>
+</mj-section>
+
+<mj-section padding="0 20px" background-color="white">
+  <mj-column padding="0">
+    <mj-text padding=0>
+      <h3 class="sub-title-d">Bundled Media</h3>
+      <p>
+        Bundled.media is een catalogus van Christelijke media. Het brengt verschillende bronnen in het Christelijke media landschap bij elkaar en maakt de media data uniform zodat het op een eenvoudige te gebruiken is voor missionaire stichtingen.
+      </p>
+      <p>
+        Wanneer een stichting start met LightNet krijgen ze als het ware een lege doos die ze nog moeten vullen met Christelijke media, bundled.media kan daarbij helpen. De stichting kan zoeken naar media in hun taal, voor hun doelgroep.
+      </p>
+    </mj-text>
+  </mj-column>
+
+  <mj-column padding="20px 0 0 40px">
+    <mj-image padding="0" href="https://bundled.media" src="https://newsletter.danielbeeke.nl/assets/newsletter-10/bundled-media.png" />
+  </mj-column>
+</mj-section>
+
+<mj-section padding="20px" background-color="white">
+  <mj-column padding="0">
+    <mj-text padding=0>
+      <h3 class="sub-title-d">Taal kiezer</h3>
+      <p>
+        Een ander tooltje dat ik heb mogen maken is een taal kiezer. Het is een klein onderdeel wat verder overal ingezet kan worden. Wat ik leuk vind aan het tooltje is dat het duizenden talen en taal variaties ondersteund. Een taal variatie kan een dialect zijn maar het kan ook een taal zijn die nog geen standaard code heeft. Nederlands heeft de taalcode ‘nl’ zo zijn er dus duizenden codes voor al deze talen en dialecten.
+      </p>
+    </mj-text>
+  </mj-column>
+</mj-section>
+
+<mj-section padding="0 20px" background-color="white">
+  <mj-column padding="20px" background-color="#008bd0">
+    <mj-image padding="0" href="https://bcp47.danielbeeke.nl" src="https://newsletter.danielbeeke.nl/assets/newsletter-10/bcp47-picker.png" />
+  </mj-column>
+
+</mj-section>
+
+<mj-section padding="20px" background-color="white">
+
+  <mj-column padding="0">
+    <mj-text padding="0">
+<p>
+Ik zal verder gaan met het programmeren van LightNet. Dit jaar zal in het teken staan van het vinden van nieuwe vrijwilligers en het maken van een community van software ontwikkelaars rondom het product. We hebben inmiddels een groepje van mensen verzameld die in het bedrijfsleven met gerelateerde software werken. 
+</p>
+
+
+
+    </mj-text>
+  </mj-column>
+
+
+</mj-section>
+
