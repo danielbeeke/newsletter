@@ -14,9 +14,9 @@
 
   <mj-column padding="0">
     <mj-text color="#008bd0" align="center">
-    <br><br>
-      <h3>"Ik vind het mooi om mee te mogen helpen aan de distributie van Christelijke media."</h3>
-    <br><br>
+<br>
+      <h3>"Stel je een netwerk van organisaties en kerken voor die onderling eenvoudig media zoals preken, films, en bijbelstudies kunnen delen. Zoiets is LightNet."</h3>
+<br>
     </mj-text>
   </mj-column>
 </mj-section>
@@ -37,63 +37,82 @@
 <mj-section padding="0 20px" background-color="white">
   <mj-column padding="0">
     <mj-text padding=0>
-      <h3 class="sub-title-d">Bundled Media</h3>
-      <p>
-        Bundled.media is een catalogus van Christelijke media. Het brengt verschillende bronnen in het Christelijke media landschap bij elkaar en maakt de media gelijkvormig zodat het eenvoudig is in te zetten voor Evangelisatie en verdieping van geloof.
-      </p>
-      <p>
-        Wanneer een stichting start met LightNet krijgen ze als het ware een lege doos die ze nog moeten vullen met Christelijke media, bundled.media kan daarbij helpen. De stichting kan zoeken naar media in hun taal, voor hun doelgroep.
-      </p>
-    </mj-text>
-  </mj-column>
-
-  <mj-column padding="20px 0 0 40px">
-    <mj-image padding="0" href="https://bundled.media" src="https://newsletter.danielbeeke.nl/assets/newsletter-10/bundled-media.png" />
-    <mj-text padding="10px 0">
-      <em><a href="https://bundled.media">Bekijk bundled.media</a></em>
-    </mj-text>
-  </mj-column>
-</mj-section>
-
-<mj-section padding="20px" background-color="white">
-  <mj-column padding="0">
-    <mj-text padding=0>
       <h3 class="sub-title-d">Taal kiezer</h3>
       <p>
-        Een ander tooltje dat ik heb mogen maken is een taal kiezer. Het is een klein onderdeel wat verder overal ingezet kan worden. Wat ik leuk vind aan het tooltje is dat het duizenden talen en taal variaties ondersteund. Een taal variatie kan een dialect zijn maar het kan ook een taal zijn die nog geen standaard code heeft. Nederlands heeft de taalcode ‘nl’ zo zijn er dus duizenden codes voor al deze talen en dialecten.
+Wanneer je een bibliotheek met boeken in veel verschillende talen hebt, is het handig om elk boek een taalcode te geven, zodat je eenvoudig kunt zoeken. 
+</p>
+    </mj-text>
+  </mj-column>
+</mj-section>
+
+<mj-section padding="0 20px" background-color="white">
+  <mj-column padding="0">
+    <mj-text padding=0>
+      <p>
+Een interessant probleem is dat organisaties soms verschillende taalcodes gebruiken. Bijvoorbeeld 'Nld', 'Nl' en 'Dut' voor de Nederlandse taal. Het zou mooi zijn om één bron te hebben voor iedere taalcode die er bestaat. 
+</p>
+<p>
+Er zijn ook landen waar de taal in twee schriften geschreven kan worden, zoals het Servisch. Je hebt Servisch in het Cyrillish (gebruikt in o. a. Rusland) maar ook in het Latijns, het schrift dat wij gebruiken.
+</p>
+    </mj-text>
+  </mj-column>
+
+  <mj-column padding="0px 0 0 20px">
+    <mj-image align="left" padding="0" href="https://bcp47.danielbeeke.nl" src="https://newsletter.danielbeeke.nl/assets/newsletter-10/bcp47-picker.png" />
+    <mj-text padding="10px 0" color="white">
+      <em><a href="https://bcp47.danielbeeke.nl">Bekijk de taal kiezer</a></em>
+    </mj-text>
+  </mj-column>
+
+</mj-section>
+
+<mj-section padding="0 20px" background-color="white">
+  <mj-column padding="0">
+    <mj-text padding=0>
+<p>
+Om al deze factoren eenvoudig in te voeren heb ik een taal kiezer gemaakt. De taalkiezer heeft meer dan 10.000 talen en dialecten!
       </p>
     </mj-text>
   </mj-column>
+
 </mj-section>
 
-<mj-section padding="0 20px" background-color="white">
-  <mj-column padding="20px" background-color="#008bd0">
-    <mj-image padding="0" href="https://bcp47.danielbeeke.nl" src="https://newsletter.danielbeeke.nl/assets/newsletter-10/bcp47-picker.png" />
-  </mj-column>
-</mj-section>
 
 <mj-section padding="0 20px" background-color="white">
   <mj-column padding="0">
-    <mj-text padding="10px 0" color="white">
-      <em><a href="https://bundled.media">Bekijk de taal kiezer</a></em>
+    <mj-text padding=0>
+      <h3 class="sub-title-d">Bundled Media</h3>
+      <p>
+        Bundled.media is een catalogus van Christelijke media. Het brengt verschillende bronnen in het Christelijke media landschap bij elkaar en maakt de media gelijkvormig zodat het eenvoudig is in te zetten voor evangelisatie en verdieping van het geloof.
+      </p>
+      <p>
+        Wanneer een stichting start met LightNet krijgen ze als het ware een lege doos die ze nog moeten vullen met Christelijke media, bundled.media helpt daarbij. De stichting kan dan zoeken naar media in hun taal, voor hun doelgroep.
+      </p>
+    </mj-text>
+  </mj-column>
+
+  <mj-column padding="20px 0 0 20px">
+    <mj-image padding="0" align="left" href="https://bundled.media/stream" src="https://newsletter.danielbeeke.nl/assets/newsletter-10/bundled-media.png" />
+    <mj-text padding="10px 0">
+      <em><a href="https://bundled.media/stream">Bekijk bundled.media</a></em>
     </mj-text>
   </mj-column>
 </mj-section>
 
 
-<mj-section padding="20px" background-color="white">
 
+
+
+<mj-section padding="0 20px" background-color="white">
   <mj-column padding="0">
-    <mj-text padding="0">
+    <mj-text padding=0>
+      <h3 class="sub-title-d">Dit jaar</h3>
+
 <p>
 Ik zal verder gaan met het programmeren van LightNet. Dit jaar zal in het teken staan van het vinden van nieuwe vrijwilligers en het maken van een community van software ontwikkelaars rondom het product. We hebben inmiddels een groepje van mensen verzameld die in het bedrijfsleven met gerelateerde software werken. 
+<br><br>
 </p>
-
-
 
     </mj-text>
   </mj-column>
-
-
 </mj-section>
-
