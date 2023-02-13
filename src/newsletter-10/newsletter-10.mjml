@@ -96,10 +96,11 @@
 
       <mj-include path="./derde-jaar.mjml" />
 
-      <mj-include path="./support.mjml" />
-
       <mj-include path="./terugblik-wilma.mjml" />
       <mj-include path="./terugblik-daniel.mjml" />
+
+      <mj-include path="./support.mjml" />
+
       <mj-include path="./advertentie.mjml" />
 
       <mj-include path="../divider.mjml" />
@@ -107,7 +108,7 @@
       <mj-section padding="20px" background-color="white">
         <mj-column padding=0>
           <mj-image padding="0" src="https://mediaworks.global/assets/team.jpg" />
-          <mj-text align="right" padding=0>
+          <mj-text align="right" padding="10px 0">
             <em class="bijschrift">Een impressie van ons team in een digitale meeting.</em>
           </mj-text>
         </mj-column>

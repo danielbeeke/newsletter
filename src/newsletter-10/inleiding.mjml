@@ -1,9 +1,10 @@
 <mj-section padding="0" background-color="white">
 <mj-column padding="0">
-    <mj-text font-size="18px" color="#D22630">
+    <mj-text font-size="16px">
 
-<p>
-<em>Hoe was jullie Januari?</em> Voor ons begon het jaar met een Poolse bruiloft op Daniël's verjaardag. Terug in Oostenrijk startte ons werk weer en namen we afscheid van een goede collega en huisgenoot. Onze woonkamer ging op de kop voor een flinke anti-schimmel schilderbeurt. Ondertussen sneeuwt het hier veel. Nu het weer iets warmer wordt heb ik nog snel wat vergeten tulpenbollen geplant, wie weet…
+<p><strong>
+<em>Hoe was jullie Januari?</em> Voor ons begon het jaar met een Poolse bruiloft op Daniël's verjaardag. We namen we afscheid van een goede collega en huisgenoot. Onze woonkamer ging op de kop voor een flinke anti-schimmel schilderbeurt. Ondertussen sneeuwt het hier veel. Nu het weer iets warmer wordt heb ik nog snel wat vergeten tulpenbollen geplant, wie weet…
+</strong>
 </p>
     </mj-text>
 </mj-column>

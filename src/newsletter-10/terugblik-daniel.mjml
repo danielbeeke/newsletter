@@ -1,7 +1,7 @@
 <mj-section padding="0" background-color="#008bd0">
   <mj-column padding="0">
     <mj-text color="white">
-      <h2 class="title-d" border="1px solid white">Terugblik Daniel</h2>
+      <h2 class="title-d" border="1px solid white">Update Daniel</h2>
     </mj-text>
   </mj-column>
 </mj-section>
@@ -26,9 +26,9 @@
     <mj-text  padding="0">
     <br><br>
 
-      <h3 class="sub-title-d">Christelijke Media conferentie</h3>
-      <p>Afgelopen jaar zijn Wilma en ik naar een grote Christelijke media conferentie geweest, toevallig was dit in Nederland, op camping de Betteld. Er waren heel veel diverse mensen, zoals bijbel vertalers, programmeurs, video en fotograven en andere mensen die met Christelijke media het evangelie verkondigen.</p>
-      <p>Op deze conferentie hebben we veel geleerd en ook hebben we veel mensen leren kennen. Voor mij als programmeur was dit een verademing, allemaal mensen die mijn taal spraken ;). Daar is ook het idee voor bundled.media onstaan met een werkgroep van verschillende techneuten.</p>
+      <h3 class="sub-title-d">Eindelijk ook mensen die mijn taal spraken ;-)</h3>
+      <p>Afgelopen jaar zijn Wilma en ik naar een grote Christelijke media conferentie geweest, toevallig was dit in Nederland, op camping de Betteld. Leuk om zo veel verschillende mensen te ontmoeten; van bijbel vertalers, programmeurs, video- en fotograven tot evangelisten.</p>
+      <p>Op deze conferentie hebben we veel geleerd en ook hebben we veel mensen leren kennen. Er waren ook veel programmeurs. Voor mij was dit een verademing, allemaal mensen die mijn taal spraken ;). Daar is ook het idee voor bundled.media onstaan in een werkgroep van verschillende techneuten.</p>
 
     </mj-text>
   </mj-column>
@@ -39,7 +39,7 @@
     <mj-text padding=0>
       <h3 class="sub-title-d">Bundled Media</h3>
       <p>
-        Bundled.media is een catalogus van Christelijke media. Het brengt verschillende bronnen in het Christelijke media landschap bij elkaar en maakt de media data uniform zodat het op een eenvoudige te gebruiken is voor missionaire stichtingen.
+        Bundled.media is een catalogus van Christelijke media. Het brengt verschillende bronnen in het Christelijke media landschap bij elkaar en maakt de media gelijkvormig zodat het eenvoudig is in te zetten voor Evangelisatie en verdieping van geloof.
       </p>
       <p>
         Wanneer een stichting start met LightNet krijgen ze als het ware een lege doos die ze nog moeten vullen met Christelijke media, bundled.media kan daarbij helpen. De stichting kan zoeken naar media in hun taal, voor hun doelgroep.
@@ -49,6 +49,9 @@
 
   <mj-column padding="20px 0 0 40px">
     <mj-image padding="0" href="https://bundled.media" src="https://newsletter.danielbeeke.nl/assets/newsletter-10/bundled-media.png" />
+    <mj-text padding="10px 0">
+      <em><a href="https://bundled.media">Bekijk bundled.media</a></em>
+    </mj-text>
   </mj-column>
 </mj-section>
 
@@ -67,8 +70,16 @@
   <mj-column padding="20px" background-color="#008bd0">
     <mj-image padding="0" href="https://bcp47.danielbeeke.nl" src="https://newsletter.danielbeeke.nl/assets/newsletter-10/bcp47-picker.png" />
   </mj-column>
-
 </mj-section>
+
+<mj-section padding="0 20px" background-color="white">
+  <mj-column padding="0">
+    <mj-text padding="10px 0" color="white">
+      <em><a href="https://bundled.media">Bekijk de taal kiezer</a></em>
+    </mj-text>
+  </mj-column>
+</mj-section>
+
 
 <mj-section padding="20px" background-color="white">
 
