@@ -10,6 +10,7 @@
       h1, h2, h3, h4 {
         font-weight: bold;
         margin-bottom: 5px;
+        text-transform: uppercase;
       }
 
       ul, p {
@@ -18,6 +19,10 @@
 
       .sub-title-w {
         color: #3b2f91;
+      }
+
+      .ending {
+        font-size: 17px;
       }
 
       .title-w {
@@ -31,6 +36,10 @@
         margin-top: 2px;
         margin-bottom: 2px;
         font-weight: 500;
+      }
+
+      h3.quote {
+        text-transform: none;
       }
 
       .sub-title-d {
@@ -87,7 +96,7 @@
     </mj-section>
       <mj-section padding=0>
         <mj-column padding=0>
-          <mj-image padding="0" src="https://newsletter.danielbeeke.nl/assets/newsletter-10/header_2.jpg" />
+          <mj-image padding="0" src="https://newsletter.danielbeeke.nl/assets/newsletter-10/header_4.jpg?" />
         </mj-column>
       </mj-section>
 
@@ -107,9 +116,17 @@
 
       <mj-section padding="20px" background-color="white">
         <mj-column padding=0>
-          <mj-image padding="0" src="https://mediaworks.global/assets/team.jpg" />
+          <mj-image href="https://mediaworks.global/assets/team.jpg" padding="0" src="https://mediaworks.global/assets/team.jpg" />
           <mj-text align="right" padding="10px 0">
             <em class="bijschrift">Een impressie van ons team in een digitale meeting.</em>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section padding="20px" background-color="white">
+        <mj-column padding=0>
+          <mj-text padding="10px 0">
+          <p class="ending">Hartelijke groet vanuit Oostenrijk, Daniël en Wilma</p>
           </mj-text>
         </mj-column>
       </mj-section>

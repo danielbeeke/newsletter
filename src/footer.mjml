@@ -1,6 +1,6 @@
-<mj-section background-color="#D22630">
+<mj-section background-color="#ddd">
     <mj-column>
-    <mj-text color="white">
+    <mj-text color="black">
         <h3>Contactgegevens</h3>
         <p>
             <a href="mailto:daniel.beeke@om.org" class="link-nostyle">daniel.beeke@om.org</a> • <a href="tel:0031637346364" class="link-nostyle">+31 6 37346364</a><br />
@@ -10,12 +10,12 @@
         <p>Grünnergasse 2, Flat 4<br /> 2000, Stockerau<br /> Oostenrijk<br>
         </p>
         <h3>Thuisfront Team</h3>
-        <p> Elsbeth Beeke • <a href="mailto:tft@daniel-wilma.nl" class="link-nostyle">tft@daniel-wilma.nl</a><br />
+        <p>Voorzitter: Elsbeth Beeke • <a href="mailto:tft@daniel-wilma.nl" class="link-nostyle">tft@daniel-wilma.nl</a><br />
 
     </mj-text>
     </mj-column>
     <mj-column>
-    <mj-text color="white">
+    <mj-text color="black">
         <h3>Support</h3>
 
         <p>

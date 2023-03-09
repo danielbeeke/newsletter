@@ -14,8 +14,8 @@
 
   <mj-column padding="0">
     <mj-text color="#008bd0" align="center">
-<br>
-      <h3>"Stel je een netwerk van organisaties en kerken voor die onderling eenvoudig media zoals preken, films, en bijbelstudies kunnen delen. Zoiets is LightNet."</h3>
+    <br>
+      <h3 class="quote">"Stel je een netwerk van organisaties en kerken voor die onderling eenvoudig media zoals preken, films, en bijbelstudies kunnen delen. Zoiets is LightNet."</h3>
 <br>
     </mj-text>
   </mj-column>
@@ -28,7 +28,9 @@
 
       <h3 class="sub-title-d">Eindelijk ook mensen die mijn taal spraken ;-)</h3>
       <p>Afgelopen jaar zijn Wilma en ik naar een grote Christelijke media conferentie geweest, toevallig was dit in Nederland, op camping de Betteld. Leuk om zo veel verschillende mensen te ontmoeten; van bijbel vertalers, programmeurs, video- en fotograven tot evangelisten.</p>
-      <p>Op deze conferentie hebben we veel geleerd en ook hebben we veel mensen leren kennen. Er waren ook veel programmeurs. Voor mij was dit een verademing, allemaal mensen die mijn taal spraken ;). Daar is ook het idee voor bundled.media onstaan in een werkgroep van verschillende techneuten.</p>
+      <p>Er waren ook veel programmeurs. Voor mij was dit een verademing, allemaal mensen die mijn taal spraken ;). Daar is ook het idee voor bundled.media onstaan in een werkgroep van verschillende techneuten.</p>
+
+      <p>Samen met anderen van ons team hebben we LightNet laten zien. We hebben veel positieve reacties gehad en goede gesprekken over hoe digitale media startende kerken en stichingen kunnen ondersteunen.</p>
 
     </mj-text>
   </mj-column>
@@ -49,7 +51,7 @@ Wanneer je een bibliotheek met boeken in veel verschillende talen hebt, is het h
   <mj-column padding="0">
     <mj-text padding=0>
       <p>
-Een interessant probleem is dat organisaties soms verschillende taalcodes gebruiken. Bijvoorbeeld 'Nld', 'Nl' en 'Dut' voor de Nederlandse taal. Het zou mooi zijn om één bron te hebben voor iedere taalcode die er bestaat. 
+Een interessant probleem is dat organisaties soms verschillende taalcodes gebruiken. Bijvoorbeeld 'Nld', 'Nl' en 'Dut' voor de Nederlandse taal. Het is beter als iedereen dezelde taalcode gebruikt.
 </p>
 <p>
 Er zijn ook landen waar de taal in twee schriften geschreven kan worden, zoals het Servisch. Je hebt Servisch in het Cyrillish (gebruikt in o. a. Rusland) maar ook in het Latijns, het schrift dat wij gebruiken.
@@ -70,7 +72,7 @@ Er zijn ook landen waar de taal in twee schriften geschreven kan worden, zoals h
   <mj-column padding="0">
     <mj-text padding=0>
 <p>
-Om al deze factoren eenvoudig in te voeren heb ik een taal kiezer gemaakt. De taalkiezer heeft meer dan 10.000 talen en dialecten!
+Dit tooltje helpt bij het kiezen of vinden van de juiste taalcode. De taalkiezer heeft meer dan 10.000 talen en dialecten!
       </p>
     </mj-text>
   </mj-column>
@@ -83,10 +85,10 @@ Om al deze factoren eenvoudig in te voeren heb ik een taal kiezer gemaakt. De ta
     <mj-text padding=0>
       <h3 class="sub-title-d">Bundled Media</h3>
       <p>
-        Bundled.media is een catalogus van Christelijke media. Het brengt verschillende bronnen in het Christelijke media landschap bij elkaar en maakt de media gelijkvormig zodat het eenvoudig is in te zetten voor evangelisatie en verdieping van het geloof.
+        Bundled.media is een catalogus van christelijke boeken en videos. Deze boeken en videos komen van verschillende uitgevers. Bijvoorbeeld videos van The Bible Project maar ook boeken van MediaWorks en vele anderen. De bedoeling is dat zoveel mogelijk uitgevers zich hierbij aan sluiten zodat je op 1 website kunt zoeken in plaats van op vele verschillende websites.
       </p>
       <p>
-        Wanneer een stichting start met LightNet krijgen ze als het ware een lege doos die ze nog moeten vullen met Christelijke media, bundled.media helpt daarbij. De stichting kan dan zoeken naar media in hun taal, voor hun doelgroep.
+        Wanneer een stichting start met LightNet krijgen ze als het ware een lege doos die ze nog moeten vullen met christelijke media, bundled.media helpt daarbij. De stichting kan dan zoeken naar media in hun taal, voor hun doelgroep.
       </p>
     </mj-text>
   </mj-column>
@@ -109,7 +111,7 @@ Om al deze factoren eenvoudig in te voeren heb ik een taal kiezer gemaakt. De ta
       <h3 class="sub-title-d">Dit jaar</h3>
 
 <p>
-Ik zal verder gaan met het programmeren van LightNet. Dit jaar zal in het teken staan van het vinden van nieuwe vrijwilligers en het maken van een community van software ontwikkelaars rondom het product. We hebben inmiddels een groepje van mensen verzameld die in het bedrijfsleven met gerelateerde software werken. 
+Ik zal verder gaan met het programmeren van LightNet. Dit jaar zal in het teken staan van het vinden van nieuwe vrijwilligers en het maken van een community van software ontwikkelaars rondom het product. We hebben inmiddels een groepje van mensen verzameld die in het bedrijfsleven met gerelateerde software werken en die soms wat vrijwilligerswerk doen. 
 <br><br>
 </p>
 

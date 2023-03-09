@@ -1,19 +1,13 @@
 <mj-section padding="0" background-color="#e2e2e2">
 <mj-column padding="0">
     <mj-text>
-    <h2>Ondersteuning</h2>
+    <h3>Bedankt!</h3>
 <p>
 Bedankt voor alle ondersteuning afgelopen twee jaar. We zijn erg dankbaar dat we hier in Oostenrijk bij kunnen dragen aan het verspreiden van Gods verhaal door middel van media. Dit doen we samen met jullie. Bedankt daarvoor!</p>
 
-<p>Heb je in het eerste of tweede jaar een maandelijkse incasso ingesteld? Dan loopt deze automatisch door. Mocht je deze donatie willen stoppen, stuur dan even een mailtje naar <strong><a href="mailto:tft@daniel-wilma.nl" class="link-nostyle">tft@daniel-wilma.nl</a></strong>. Mocht je willen starten met het ondersteunen van deze missie dan kan dat via het <strong><a class="link-nostyle" href="https://operatiemobilisatie.nl/danielenwilma">online donatieformulier</a></strong>.
+<p>Heb je in het eerste of tweede jaar een maandelijkse incasso ingesteld? Dan loopt deze automatisch door. Mocht je deze donatie willen stoppen, stuur dan even een mailtje naar <strong><a href="mailto:tft@daniel-wilma.nl" class="link-nostyle">tft@daniel-wilma.nl</a></strong>.
 
 </p>
     </mj-text>
 </mj-column>
-</mj-section>
-
-<mj-section padding="20px"  background-color="#e2e2e2">
-  <mj-column padding=0>
-    <mj-image padding="0" src="https://newsletter.danielbeeke.nl/assets/newsletter-10/support.jpg" />
-  </mj-column>
 </mj-section>
