@@ -92,8 +92,9 @@ Dit tooltje helpt bij het kiezen of vinden van de juiste taalcode. De taalkiezer
       </p>
     </mj-text>
   </mj-column>
-
-  <mj-column padding="20px 0 0 20px">
+  </mj-section>
+<mj-section padding="0 20px" background-color="white">
+  <mj-column padding="0">
     <mj-image padding="0" align="left" href="https://bundled.media/stream" src="https://newsletter.danielbeeke.nl/assets/newsletter-10/bundled-media.png" />
     <mj-text padding="10px 0">
       <em><a href="https://bundled.media/stream">Bekijk bundled.media</a></em>
