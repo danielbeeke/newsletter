@@ -85,7 +85,7 @@ Dit tooltje helpt bij het kiezen of vinden van de juiste taalcode. De taalkiezer
     <mj-text padding=0>
       <h3 class="sub-title-d">Bundled Media</h3>
       <p>
-        Bundled.media is een bibliotheek van christelijke boeken en videos. Deze boeken en videos komen van verschillende uitgevers. Bijvoorbeeld videos van The Bible Project maar ook boeken van MediaWorks en vele anderen. De bedoeling is dat zoveel mogelijk uitgevers zich hierbij aan sluiten zodat je op <strong>1 website kunt zoeken in plaats van op vele verschillende websites.</strong>
+        Een andere project wat ik gemaakt heb is bundled.media. Dit is een bibliotheek van christelijke boeken en videos van verschillende uitgevers. Bijvoorbeeld videos van The Bible Project maar ook boeken van MediaWorks en vele anderen. De bedoeling is dat zoveel mogelijk uitgevers zich hierbij aan sluiten zodat je op <strong>1 website kunt zoeken in plaats van op vele verschillende websites.</strong>
       </p>
       <p>
         Wanneer een stichting start met LightNet krijgen ze als het ware een lege doos die ze nog moeten vullen met christelijke media, bundled.media helpt daarbij. De stichting kan dan zoeken naar media in hun taal, voor hun doelgroep.
@@ -93,17 +93,19 @@ Dit tooltje helpt bij het kiezen of vinden van de juiste taalcode. De taalkiezer
     </mj-text>
   </mj-column>
   </mj-section>
+<mj-section padding="20px" background-color="#008bd0">
+  <mj-column padding="0">
+    <mj-image padding="0" align="left" href="https://bundled.media/stream" src="https://newsletter.danielbeeke.nl/assets/newsletter-10/bundled-media.png?1" />
+  </mj-column>
+</mj-section>
+
 <mj-section padding="0 20px" background-color="white">
   <mj-column padding="0">
-    <mj-image padding="0" align="left" href="https://bundled.media/stream" src="https://newsletter.danielbeeke.nl/assets/newsletter-10/bundled-media.png" />
     <mj-text padding="10px 0">
       <em><a href="https://bundled.media/stream">Bekijk bundled.media</a></em>
     </mj-text>
   </mj-column>
 </mj-section>
-
-
-
 
 
 <mj-section padding="0 20px" background-color="white">
