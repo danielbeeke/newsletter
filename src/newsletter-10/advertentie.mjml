@@ -1,4 +1,12 @@
 
+<mj-section padding="20px"  background-color="white">
+  <mj-column padding=0>
+    <mj-image href="https://mediaworks.global/dev" padding="0" src="https://newsletter.danielbeeke.nl/assets/newsletter-10/ad.jpg" />
+  </mj-column>
+</mj-section>
+
+
+
 <mj-section padding="0" background-color="white">
 <mj-column padding="0">
     <mj-text>
@@ -6,7 +14,7 @@
 
 <p>
 
-Om het product LightNet echt van de grond te krijgen hebben we meer programmeurs nodig.
+<strong>Om het product LightNet echt van de grond te krijgen hebben we meer programmeurs nodig.</strong>
 
 Dus ken jij nog iemand die zijn of haar skills wil gebruiken voor Christelijke media, dan komen we graag in contact. 
 
@@ -16,10 +24,3 @@ Dit kan als een soort van stage van een paar maanden, het kan in de vorm van vri
     </mj-text>
 </mj-column>
 </mj-section>
-
-<mj-section padding="20px"  background-color="white">
-  <mj-column padding=0>
-    <mj-image href="https://mediaworks.global/dev" padding="0" src="https://newsletter.danielbeeke.nl/assets/newsletter-10/email-signature-lightnet.jpg" />
-  </mj-column>
-</mj-section>
-

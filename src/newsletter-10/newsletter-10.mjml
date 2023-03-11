@@ -108,8 +108,6 @@
       <mj-include path="./terugblik-wilma.mjml" />
       <mj-include path="./terugblik-daniel.mjml" />
 
-      <mj-include path="./support.mjml" />
-
       <mj-include path="./advertentie.mjml" />
 
       <mj-include path="../divider.mjml" />
@@ -122,6 +120,8 @@
           </mj-text>
         </mj-column>
       </mj-section>
+
+      <mj-include path="./support.mjml" />
 
       <mj-section padding="20px" background-color="white">
         <mj-column padding=0>
