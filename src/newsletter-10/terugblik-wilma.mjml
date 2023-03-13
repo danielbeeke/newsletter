@@ -25,6 +25,8 @@
 <mj-section padding="0" background-color="white">
   <mj-column padding="0">
     <mj-text>
+        <br>
+
       <h3 class="sub-title-w">Een verhaal van hoop in 14 talen!</h3>
       <p>
 Een mooie opdracht in 2022 was de Paasbrochure voor Kavod. Kavod is een Oostenrijkse stichting die hulp biedt aan slachtoffers van mensenhandel. Dit zijn bijvoorbeeld mensen die gedwongen in de prostitutie werken. </p><p>De stichting wilde graag een hoopvolle brochure om uit te delen tijdens Pasen, aan mensen die vaak in moeilijke situaties (vast)zitten.
@@ -32,7 +34,7 @@ Een mooie opdracht in 2022 was de Paasbrochure voor Kavod. Kavod is een Oostenri
     </mj-text>
   </mj-column>
   </mj-section>
-<mj-section padding="20px" background-color="white">
+<mj-section padding="0px 20px" background-color="white">
   <mj-column padding="0">
     <mj-image padding="0" src="https://newsletter.danielbeeke.nl/assets/newsletter-10/graves-to-gardens-paars.jpg" />
   </mj-column>

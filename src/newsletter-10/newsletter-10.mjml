@@ -66,6 +66,7 @@
       }
 
       ul {
+        margin-top: -10px;
         padding-left: 20px;
       }
 
@@ -113,7 +114,7 @@
 
       <mj-include path="../divider.mjml" />
 
-      <mj-section padding="20px" background-color="white">
+      <mj-section padding="0 20px 0px" background-color="white">
         <mj-column padding=0>
           <mj-image href="https://mediaworks.global/assets/team.jpg" padding="0" src="https://mediaworks.global/assets/team.jpg" />
           <mj-text align="right" padding="10px 0">
@@ -122,12 +123,47 @@
         </mj-column>
       </mj-section>
 
-      <mj-include path="./support.mjml" />
+<mj-section padding="0" background-color="white">
+<mj-column padding="0">
+    <mj-text>
+    <h3 style="color: #D22630;" color="#D22630">Bedankt!</h3>
+<p>
+Bedankt voor alle ondersteuning afgelopen twee jaar. We zijn erg dankbaar dat we hier in Oostenrijk bij kunnen dragen aan het verspreiden van Gods verhaal door middel van media. Dit doen we samen met jullie. Bedankt daarvoor!</p>
 
-      <mj-section padding="20px" background-color="white">
-        <mj-column padding=0>
-          <mj-text padding="10px 0">
-          <p class="ending">Hartelijke groet vanuit Oostenrijk, Daniël en Wilma</p>
+<p>Heb je in het eerste of tweede jaar een maandelijkse incasso ingesteld? Dan loopt deze automatisch door. Mocht je deze donatie willen stoppen, stuur dan even een mailtje naar <strong><a href="mailto:tft@daniel-wilma.nl" class="link-nostyle">tft@daniel-wilma.nl</a></strong>.
+
+</p>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+<mj-section padding="25px" background-color="white">
+<mj-column padding="0"  border="5px solid #f5e1e2">
+    <mj-text>
+<h3>Gebedspunten</h3>
+<p>
+Wil je mee bidden?
+
+<ul>
+  <li>Opstarten van LightNet voor Nepalese stichting</li>
+  <li>Meer vrienden in Oostenrijk</li>
+  <li>Meer programmeurs voor het LightNet product</li>
+  <li>Soms is het wel zoeken; we zijn getrouwd en we zijn collega's. Wil je bidden voor een goede balans hierin.</li>
+  <li>Vervulling van de andere vacatures, om de werkdrukte verlichten.</li>
+</ul>
+</p>
+
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+<mj-section padding="0px" background-color="white">
+<mj-column padding="0">
+    <mj-text>
+          <p class="ending">
+          We zijn erg dankbaar voor jullie steun. We bidden jullie zegen toe.
+          Hartelijke groet vanuit Oostenrijk, Daniël en Wilma
+          </p>
           </mj-text>
         </mj-column>
       </mj-section>
