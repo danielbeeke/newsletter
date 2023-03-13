@@ -1,5 +1,5 @@
 
-<mj-section padding="20px"  background-color="white">
+<mj-section padding="0"  background-color="white">
   <mj-column padding=0>
     <mj-image href="https://mediaworks.global/dev" padding="0" src="https://newsletter.danielbeeke.nl/assets/newsletter-10/ad.jpg" />
   </mj-column>
