@@ -8,7 +8,7 @@
 
 <mj-section padding="0" background-color="#ecf4f6">
   <mj-column padding=0>
-      <mj-image padding="0" src="https://newsletter.danielbeeke.nl/assets/newsletter-10/daniel.jpg" />
+      <mj-image padding="0" fluid-on-mobile="true" src="https://newsletter.danielbeeke.nl/assets/newsletter-10/daniel.jpg" />
   </mj-column>
   </mj-column>
 
@@ -62,7 +62,7 @@ Dit tooltje helpt bij het kiezen of vinden van de juiste taalcode. De taalkiezer
   </mj-column>
 
   <mj-column padding="0 25px 0 20px">
-    <mj-image align="left" padding="0" href="https://bcp47.danielbeeke.nl" src="https://newsletter.danielbeeke.nl/assets/newsletter-10/bcp47-picker.png" />
+    <mj-image align="left" padding="0" href="https://bcp47.danielbeeke.nl" fluid-on-mobile="true" src="https://newsletter.danielbeeke.nl/assets/newsletter-10/bcp47-picker.png" />
     <mj-text padding="10px 0" color="white">
       <em><a href="https://bcp47.danielbeeke.nl">Bekijk de taal kiezer</a></em>
     </mj-text>

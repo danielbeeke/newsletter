@@ -9,7 +9,7 @@
 
 <mj-section padding="0" background-color="#f0eefb">
   <mj-column>
-      <mj-image padding="0" src="https://newsletter.danielbeeke.nl/assets/newsletter-10/wilma-werk.jpg" />
+      <mj-image fluid-on-mobile="true" padding="0" src="https://newsletter.danielbeeke.nl/assets/newsletter-10/wilma-werk.jpg" />
   </mj-column>
   </mj-column>
 
@@ -34,7 +34,7 @@ Een mooie opdracht in 2022 was de Paasbrochure voor Kavod. Kavod is een Oostenri
     </mj-text>
   </mj-column>
   </mj-section>
-<mj-section padding="0px 20px" background-color="white">
+<mj-section padding="0px 0px" background-color="white">
   <mj-column padding="0">
     <mj-image padding="0" src="https://newsletter.danielbeeke.nl/assets/newsletter-10/graves-to-gardens-paars.jpg" />
   </mj-column>
@@ -55,23 +55,39 @@ Een mooie opdracht in 2022 was de Paasbrochure voor Kavod. Kavod is een Oostenri
       <p>
       De flyers zijn erg goed ontvangen hoorde ik: er is een herdruk geweest en ze worden ook nu nog volop gebruikt.
       </p>
-<br>
-          <h3 class="sub-title-w">Eerste kinderboek in Murtukh*-taal</h3>
-
-      <p>Een mooi project waar ons team aan gewerkt heeft is het verhaal van "het verloren schaap".
-<strong>Dit is het eerste kinderboek dat is gepubliceerd in de Murtukh*-taal van de Kaukasus!</strong> De plaatselijke vertaler had tranen van vreugde en trots toen hij het gedrukte boek zag. De lokale bevolking heeft de schaapjes gehaakt. Deze boekjes worden nu ook weggeven als kraamcadeautje wanneer er een kindje wordt geboren. 
-      </p>
-      <em>* taal gefigneerd om veiligheidsredenen</em>
     </mj-text>
   </mj-column>
   </mj-section>
+
+
+<mj-section padding="0" background-color="white">
+  <mj-column padding="0">
+    <mj-text padding-top=0 padding-bottom=0>
+          <h3 class="sub-title-w">Eerste kinderboek in Murtukh*-taal</h3>
+
+    </mj-text>
+  </mj-column>
+  </mj-section>
+
 
 <mj-section padding="20px" background-color="white">
   <mj-column padding="0">
     <mj-image padding="0"  src="https://newsletter.danielbeeke.nl/assets/newsletter-10/lost-sheep.jpg" />
     <mj-text align="right" padding="10px 0">
     <em class="bijschrift">Gehaakte schapen als vingerpoppetjes in het boek verwerkt.</em>
-    <br><br><br>
     </mj-text>
   </mj-column>
 </mj-section>
+
+<mj-section padding="0" background-color="white">
+  <mj-column padding="0">
+    <mj-text padding-top=0>
+
+      <p>Een mooi project waar ons team aan gewerkt heeft is het verhaal van "het verloren schaap".
+<strong>Dit is het eerste kinderboek dat is gepubliceerd in de Murtukh*-taal van de Kaukasus!</strong> De plaatselijke vertaler had tranen van vreugde en trots toen hij het gedrukte boek zag. De lokale bevolking heeft de schaapjes gehaakt. Deze boekjes worden nu ook weggeven als kraamcadeautje wanneer er een kindje wordt geboren. 
+      </p>
+      <em>* taal gefigneerd om veiligheidsredenen</em>
+      <br><br><br>
+    </mj-text>
+  </mj-column>
+  </mj-section>

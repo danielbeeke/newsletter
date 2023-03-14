@@ -1,7 +1,7 @@
 <mjml background-color="#f2f2f2" padding="0">
   <mj-head>
-    <mj-title>2023</mj-title>
-    <mj-preview></mj-preview>
+    <mj-title>🍕 Pizza's, 🤓 nerds en 🍶 keramiek</mj-title>
+    <mj-preview>Vlogen de eerste maanden van het jaar voor jullie ook zo snel voorbij? Voor ons begon 2023 met allerlei succesvolle en minder succesvolle ervaringen.</mj-preview>
     <mj-style inline="inline">
       * {
         line-height: 1.6;
@@ -46,7 +46,7 @@
       .sub-title-d {
         color: #008bd0;
       }
-
+  
       .title-d {
         padding: 4px;
         border: 1px solid white;
