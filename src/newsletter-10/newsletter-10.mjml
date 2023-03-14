@@ -139,9 +139,9 @@ Bedankt voor alle ondersteuning afgelopen twee jaar. We zijn erg dankbaar dat we
         </mj-column>
       </mj-section>
 
-<mj-section padding="25px" background-color="white">
-<mj-column padding="0"  border="5px solid #f5e1e2">
-    <mj-text>
+<mj-section padding="10px 25px" background-color="white">
+<mj-column padding="0"  background-color="#f7ebec">
+    <mj-text padding="0px 30px 14px">
 <h3>Gebedspunten</h3>
 <p>
 Wil je mee bidden?
