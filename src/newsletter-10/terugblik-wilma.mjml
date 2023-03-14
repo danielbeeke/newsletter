@@ -15,9 +15,9 @@
 
   <mj-column padding="0">
     <mj-text color="#3b2f91" align="center">
-    <br><br>
+    <br>
       <h3 class="quote">"Wat ik leuk vond aan deze opdracht was dat ik heel vrij een beeld kon maken dat een hoopvol verhaal verteld."</h3>
-    <br><br>
+    <br>
     </mj-text>
   </mj-column>
 </mj-section>
@@ -55,6 +55,7 @@ Een mooie opdracht in 2022 was de Paasbrochure voor Kavod. Kavod is een Oostenri
       <p>
       De flyers zijn erg goed ontvangen hoorde ik: er is een herdruk geweest en ze worden ook nu nog volop gebruikt.
       </p>
+      <br>
     </mj-text>
   </mj-column>
   </mj-section>

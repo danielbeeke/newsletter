@@ -14,9 +14,8 @@
 
   <mj-column padding="0">
     <mj-text color="#008bd0" align="center">
-    <br>
       <h3 class="quote">"Stel je een netwerk van organisaties en kerken voor die onderling eenvoudig media zoals preken, films, en bijbelstudies kunnen delen. Zoiets is LightNet."</h3>
-<br>
+
     </mj-text>
   </mj-column>
 </mj-section>
