@@ -50,7 +50,7 @@
       </mj-section>
       <mj-section background-color="white" padding="0">
         <mj-column>
-          <mj-image padding="0" src="../../assets/newsletter-11/header_11.jpg" />
+          <mj-image padding="0" src="https://newsletter.danielbeeke.nl/assets/newsletter-11/header_11.jpg" />
           <mj-text>
             <h1>Zien we je 14 Juni?</h1>
             <br>
@@ -84,7 +84,7 @@
             Hartelijke groet, <br> Daniël en Wilma<br><br>
           </p>
           </mj-text>
-          <mj-image padding="0" src="../../assets/newsletter-11/eBooks-reader.jpg" />
+          <mj-image padding="0" src="https://newsletter.danielbeeke.nl/assets/newsletter-11/eBooks-reader.jpg" />
           <mj-text>
           </mj-text>
         </mj-column>
