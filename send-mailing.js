@@ -19,6 +19,8 @@ async function sendMail () {
     console.log(subscribers.length);
     return;
   }
+  const prompt = new Confirm('Send to ALL marked applicable in the google sheet');
+  let answer = await prompt.run();
 
   for (let subscriber of subscribers) {
     const prompt = new Confirm('Send to ' + subscriber.Email.trim());
@@ -32,12 +34,12 @@ async function sendMail () {
 
     let transporter = transporters[transporterName];
 
-    let answer = await prompt.run();
+    // let answer = await prompt.run();
 
     if (answer) {
       try {
         await transporter.sendMail({
-          from: `"🌿 Daniel en Wilma" <${settings.mail[transporterName].mail}>`,
+          from: `"Daniel en Wilma" <${settings.mail[transporterName].mail}>`,
           to: subscriber.Email.trim(),
           subject: newsletter.email.subject,
           text: personalizedEmail,
