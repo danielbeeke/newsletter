@@ -1,7 +1,7 @@
 <mjml background-color="#f2f2f2" padding="0">
   <mj-head>
-    <mj-title>Informatie avond over ons werk en LightNet</mj-title>
-    <mj-preview>Wil je meer weten over wat wij doen?.</mj-preview>
+    <mj-title>Informatie avond Daniël en Wilma</mj-title>
+    <mj-preview>Wil je meer weten over wat wij doen?</mj-preview>
     <mj-style inline="inline">
       * {
         line-height: 1.6;
