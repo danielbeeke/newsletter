@@ -1,7 +1,7 @@
 <mjml background-color="#f2f2f2" padding="0">
   <mj-head>
-    <mj-title>Informatie avond Daniël en Wilma</mj-title>
-    <mj-preview>Wil je meer weten over wat wij doen?</mj-preview>
+    <mj-title>Zien we je 14 Juni? 😀</mj-title>
+    <mj-preview>Altijd al willen weten hoe je een bijbel smokkelt? Nieuwsgierig naar wat we eigenlijk in Oostenrijk doen? Of gewoon benieuwd naar hoe het met ons gaat?</mj-preview>
     <mj-style inline="inline">
       * {
         line-height: 1.6;
@@ -46,25 +46,46 @@
           <mj-text align="center" padding-top="20px" padding-left="30px" padding-right="30px">
             <p>Is deze mail niet goed leesbaar? Klik <a href="https://newsletter.danielbeeke.nl/exports/newsletter-11.html">hier</a> voor de webversie.</p>
           </mj-text>
-          <mj-image padding="0" src="../../assets/newsletter-11/daniel-wilma.jpg" />
+        </mj-column>
+      </mj-section>
+      <mj-section background-color="white" padding="0">
+        <mj-column>
+          <mj-image padding="0" src="https://newsletter.danielbeeke.nl/assets/newsletter-11/header_11.jpg" />
           <mj-text>
-            <h1>Wil je meer weten over ons werk?</h1>
+            <h1>Zien we je 14 Juni?</h1>
             <br>
             <p style="font-size: 16px; line-height: 30px">
-            Altijd al willen weten hoe je een bijbel smokkelt? Of gewoon nieuwsgierig naar wat we eigenlijk in Oostenrijk doen? Van harte uitgenodigd op woensdagavond 14 juni waar we wat zullen vertellen over ons werk bij OM MediaWorks!
+            Altijd al willen weten hoe je een bijbel smokkelt? Nieuwsgierig naar wat we eigenlijk in Oostenrijk doen? Of gewoon benieuwd naar hoe het met ons gaat? 
+            </p><p style="font-size: 16px; line-height: 30px">
+            Van harte uitgenodigd op woensdagavond 14 juni waar we onder het gemak van koffie en thee zullen vertellen over ons werk bij MediaWorks! We zien uit naar een gezellig avond met mooie gesprekken! 😀
             </p>
           </mj-text>
 
-          <mj-text align="left" font-size="18px">
-          
-            <p>
-              <strong>Datum: </strong><span>Woensdag 14 Juni</span><br>
-              <strong>Tijd: </strong><span>20:00</span><br>
-              <strong>Locatie:</strong><br><span>Baptistengemeente De Rank<br>
+        <mj-table>
+          <tr>
+            <td style="padding: 0 15px 0 0; width: 90px; font-size: 18px"><strong>Datum: </strong></td>
+            <td style="padding: 0 0 0 15px; font-size: 18px"><span>Woensdag 14 Juni</span></td>
+          </tr>
+          <tr>
+            <td style="padding: 0 15px 0 0; font-size: 18px"><strong>Tijd: </strong></td>
+            <td style="padding: 0 0 0 15px; font-size: 18px"><span>20:00, inloop 19:45</span></td>
+          </tr>
+          <tr>
+            <td style="padding: 0 15px 0 0; vertical-align: top; font-size: 18px"><strong>Locatie: </strong></td>
+            <td style="padding: 0 0 0 15px; font-size: 18px"><span>Baptistengemeente De Rank<br>
               Vliegend Hertlaan 4a<br>
-              3526 KT Utrecht</span>
-            </p>
-            <br>
+              3526 KT Utrecht</span></td>
+          </tr>
+
+        </mj-table>
+          <mj-text>
+          <br>
+          <p style="font-size: 16px; line-height: 30px">
+            Hartelijke groet, <br> Daniël en Wilma<br><br>
+          </p>
+          </mj-text>
+          <mj-image padding="0" src="https://newsletter.danielbeeke.nl/assets/newsletter-11/eBooks-reader.jpg" />
+          <mj-text>
           </mj-text>
         </mj-column>
       </mj-section>
