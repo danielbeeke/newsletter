@@ -1,0 +1,74 @@
+<mjml background-color="#f2f2f2" padding="0">
+  <mj-head>
+    <mj-title>Daniël en Wilma komen terug</mj-title>
+    <mj-preview>We willen graag even de tijd nemen om met jullie te delen...</mj-preview>
+    <mj-style inline="inline">
+      * {
+        line-height: 1.6;
+      }
+
+      h1, h2, h3, h4 {
+        font-weight: bold;
+        margin-bottom: 5px;
+        letter-spacing: .7px;
+      }
+
+      ul, p {
+        margin-top: 0;
+      }
+
+      ul {
+        margin-top: -10px;
+        padding-left: 20px;
+      }
+
+      hr {
+        background: none;
+        border-bottom: none;
+        display: none;
+        border-top: 1px dashed #dddddd;
+      }
+
+      html {
+        background-color: #f2f2f2;
+      }
+
+      .link-nostyle {
+        color: inherit;
+        text-decoration: none
+      }
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#f2f2f2">
+    <mj-wrapper full-width="full-width" background-color="#f2f2f2" padding="0">
+      <mj-section background-color="white" padding="0">
+        <mj-column>
+          <mj-image padding="0" src="../../assets/newsletter-11/header.jpg" />
+          <mj-text>
+            <h1>Lieve familie, vrienden en kennissen,</h1>
+
+  <p>
+  Gisteravond waren we tussen de opgestapelde dozen een grote pan pastasaus aan het koken voor een afscheidsdiner met onze kerk; een mooie illustratie van hoe ons leven er op dit moment een beetje uit ziet...
+</p><p>
+Afgelopen tijd hebben we besloten om terug te keren naar Nederland en na 3 jaar ons werk bij OM MediaWorks af te ronden. We willen jullie van harte bedanken voor alle steun en betrokkenheid tijdens onze tijd bij OM MediaWorks in Oostenrijk! Jullie bijdragen hebben diverse mooie projecten mogelijk gemaakt, variërend van illustraties en animaties tot boeken en het LightNet project.
+</p><p>
+Het was een avontuur met ups en downs: we konden aan bijzondere projecten werken en er zijn mooie vriendschappen ontstaan. Collega's én partners zijn bleek soms leuk en soms vooral ingewikkeld. We werden geconfronteerd met onze Nederlandse directheid en maakten mee hoe het is om 'de buitenlander' te zijn. We introduceerden met succes het gebruik van 'satésaus bij de barbecue'. Er waren leuke momenten met gasten uit Nederland.
+</p><p>
+We koesteren de mooie tijd die we hebben gehad en zijn dankbaar dat we onze vaardigheden hier hebben kunnen inzetten voor iets waar we in geloven. Op dit moment staan we voor nieuwe uitdagingen: het werk loslaten, afscheid nemen en op 9 maart terug verhuizen naar Nederland. We hebben afgelopen maand hard gezocht naar woonruimte en zijn super blij dat we een appartement hebben gevonden in Amersfoort, dichtbij het centrum. Ook heeft Daniël vorige week ja gezegd tegen een nieuwe baan.
+</p><p>
+Nogmaals bedankt voor jullie steun, gebed, betrokkenheid en vriendschap. We kijken uit naar deze nieuwe fase die voor ons ligt en hopen jullie weer vaker te kunnen zien.
+</p><p>
+Hartelijke groet,
+Daniël en Wilma
+
+  </p>
+
+          </mj-text>
+
+        </mj-column>
+      </mj-section>
+      </mj-section>
+
+    </mj-wrapper>
+  </mj-body>
+</mjml>
