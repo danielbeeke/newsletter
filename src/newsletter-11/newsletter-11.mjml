@@ -1,7 +1,7 @@
 <mjml background-color="#f2f2f2" padding="0">
   <mj-head>
-    <mj-title>Zien we je 14 Juni? 😀</mj-title>
-    <mj-preview>Altijd al willen weten hoe je een bijbel smokkelt? Nieuwsgierig naar wat we eigenlijk in Oostenrijk doen? Of gewoon benieuwd naar hoe het met ons gaat?</mj-preview>
+    <mj-title>Lieve vrienden, kennissen en familieleden</mj-title>
+    <mj-preview>We willen graag even de tijd nemen om met jullie te delen...</mj-preview>
     <mj-style inline="inline">
       * {
         line-height: 1.6;
@@ -44,49 +44,30 @@
       <mj-section background-color="#f2f2f2" padding="0">
         <mj-column padding="0">
           <mj-text align="center" padding-top="20px" padding-left="30px" padding-right="30px">
-            <p>Is deze mail niet goed leesbaar? Klik <a href="https://newsletter.danielbeeke.nl/exports/newsletter-11.html">hier</a> voor de webversie.</p>
+            <p>Is deze mail niet goed leesbaar? Klik <a href="https://newsletter.danielbeeke.nl/exports/newsletter-13.html">hier</a> voor de webversie.</p>
           </mj-text>
         </mj-column>
       </mj-section>
       <mj-section background-color="white" padding="0">
         <mj-column>
-          <mj-image padding="0" src="https://newsletter.danielbeeke.nl/assets/newsletter-11/header_11.jpg" />
+          <mj-image padding="0" src="../../assets/newsletter-13/header.jpg" />
           <mj-text>
-            <h1>Zien we je 14 Juni?</h1>
+            <h1>Lieve vrienden, kennissen en familieleden</h1>
             <br>
-            <p style="font-size: 16px; line-height: 30px">
-            Altijd al willen weten hoe je een bijbel smokkelt? Nieuwsgierig naar wat we eigenlijk in Oostenrijk doen? Of gewoon benieuwd naar hoe het met ons gaat? 
-            </p><p style="font-size: 16px; line-height: 30px">
-            Van harte uitgenodigd op woensdagavond 14 juni waar we onder het gemak van koffie en thee zullen vertellen over ons werk bij MediaWorks! We zien uit naar een gezellig avond met mooie gesprekken! 😀
-            </p>
+            <p>
+We willen graag even de tijd nemen om met jullie te delen wat er gaande is in ons leven. Allereerst willen we jullie hartelijk bedanken voor alle steun en support die we hebben mogen ontvangen tijdens onze tijd bij OM MediaWorks in Oostenrijk. Jullie bijdragen hebben het mogelijk gemaakt om deel te nemen aan diverse mooie projecten, variërend van illustraties en animaties tot boeken en LightNet-software.
+<br><br>
+Afgelopen tijd hebben we besloten om terug te keren naar Nederland en ons werk bij OM MediaWorks af te ronden. Het opzetten van softwareontwikkeling binnen een stichting bleek uitdagender dan gedacht. We hebben ons best gedaan om hier positief mee om te gaan, bij te dragen met onze input en initiatieven, maar helaas bleven er visieverschillen bestaan. Daarnaast werd het na 3 jaar als collega's werken toch ook weer tijd dat we onze eigen werkzaamheden zouden gaan hebben.
+<br><br>
+Desondanks koesteren we de mooie tijd die we hebben gehad en zijn we dankbaar dat we onze vaardigheden hebben kunnen inzetten voor het koninkrijk van God. We zijn bezig het werk zorgvuldig over te dragen en hebben er vertrouwen in dat het in goede handen zal blijven.
+<br><br>
+Op dit moment staan we voor nieuwe uitdagingen: het werk loslaten en afscheid nemen. We hebben afgelopen maand hard gezocht naar werk en woonruimte en beiden zijn gelukt! We hebben een mooi appartement gevonden in Amersfoort, dichtbij het centrum. Ook heeft Daniel een baan gevonden.
+<br><br>
+Nogmaals bedankt voor jullie steun, gebed, betrokkenheid en vriendschap. We kijken uit naar deze nieuwe fase die voor ons ligt en hopen jullie in de toekomst weer te ontmoeten.
+<br><br>
+Hartelijke groet, <br>Daniel en Wilma</p>
           </mj-text>
 
-        <mj-table>
-          <tr>
-            <td style="padding: 0 15px 0 0; width: 90px; font-size: 18px"><strong>Datum: </strong></td>
-            <td style="padding: 0 0 0 15px; font-size: 18px"><span>Woensdag 14 Juni</span></td>
-          </tr>
-          <tr>
-            <td style="padding: 0 15px 0 0; font-size: 18px"><strong>Tijd: </strong></td>
-            <td style="padding: 0 0 0 15px; font-size: 18px"><span>20:00, inloop 19:45</span></td>
-          </tr>
-          <tr>
-            <td style="padding: 0 15px 0 0; vertical-align: top; font-size: 18px"><strong>Locatie: </strong></td>
-            <td style="padding: 0 0 0 15px; font-size: 18px"><span>Baptistengemeente De Rank<br>
-              Vliegend Hertlaan 4a<br>
-              3526 KT Utrecht</span></td>
-          </tr>
-
-        </mj-table>
-          <mj-text>
-          <br>
-          <p style="font-size: 16px; line-height: 30px">
-            Hartelijke groet, <br> Daniël en Wilma<br><br>
-          </p>
-          </mj-text>
-          <mj-image padding="0" src="https://newsletter.danielbeeke.nl/assets/newsletter-11/eBooks-reader.jpg" />
-          <mj-text>
-          </mj-text>
         </mj-column>
       </mj-section>
       </mj-section>
