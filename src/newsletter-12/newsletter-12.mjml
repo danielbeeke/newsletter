@@ -42,8 +42,8 @@
   <mj-body background-color="#f2f2f2">
     <mj-wrapper full-width="full-width" background-color="#f2f2f2" padding="0">
       <mj-section background-color="white" padding="0">
-        <mj-column>
-          <mj-image padding="0" src="../../assets/newsletter-11/header.jpg" />
+        <mj-column >
+          <mj-image padding="0" src="https://newsletter.danielbeeke.nl/assets/newsletter-12/header.jpg" />
           <mj-text>
             <h1>Lieve familie, vrienden en kennissen,</h1>
 
@@ -56,7 +56,7 @@ Het was een avontuur met ups en downs: we konden aan bijzondere projecten werken
 </p><p>
 We koesteren de mooie tijd die we hebben gehad en zijn dankbaar dat we onze vaardigheden hier hebben kunnen inzetten voor iets waar we in geloven. Op dit moment staan we voor nieuwe uitdagingen: het werk loslaten, afscheid nemen en op 9 maart terug verhuizen naar Nederland. We hebben afgelopen maand hard gezocht naar woonruimte en zijn super blij dat we een appartement hebben gevonden in Amersfoort, dichtbij het centrum. Ook heeft Daniël vorige week ja gezegd tegen een nieuwe baan.
 </p><p>
-Nogmaals bedankt voor jullie steun, gebed, betrokkenheid en vriendschap. We kijken uit naar deze nieuwe fase die voor ons ligt en hopen jullie weer vaker te kunnen zien.
+Nogmaals bedankt voor jullie vriendschap, gebed, betrokkenheid en steun. We kijken uit naar deze nieuwe fase die voor ons ligt en hopen jullie weer vaker te kunnen zien.
 </p><p>
 Hartelijke groet,
 Daniël en Wilma
@@ -67,6 +67,10 @@ Daniël en Wilma
 
         </mj-column>
       </mj-section>
+      <mj-section  padding="0">
+      <mj-column  padding="0">
+      <mj-image padding="0" src="https://newsletter.danielbeeke.nl/assets/newsletter-12/work.jpg" />
+      </mj-column>
       </mj-section>
 
     </mj-wrapper>
